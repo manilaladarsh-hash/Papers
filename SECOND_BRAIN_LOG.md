@@ -53,3 +53,15 @@ Direct hosted checks passed for all eight pages, five shared styles/scripts, two
 An initial strict text comparison detected Git's Windows-to-LF line-ending normalization. The local builder now emits LF explicitly; the original strict byte checks then passed without relaxed comparisons. Source bytes were never changed.
 
 Merged and read back the expanded project, source synthesis, preferences and companion-study links in the existing connected Second Brain; historical entries and original archive children were preserved. Detailed evidence remains local. Current status: seven-topic expansion, deeper study material and publication completed. Bookmark the website and start with Cuprate reviews; other library folders are outside this installment.
+
+## 2026-10-10 — Visual learning overhaul
+
+The requested overhaul keeps all seven topics, thirteen PDFs and detailed source notes, adding a visual-first learning flow for every paper: four source-linked pictures, a short takeaway, keyboard/step controls, diagram enlargement and prediction feedback. The hub has thirteen visual lesson entries, topic/unchecked recall filters and a magnetic-probe teaching explorer. Full arguments, equations and attributed author figures remain available after the visual route.
+
+New visual.css/visual.js provide the shared interface. Optional recall checks use a separate browser-local key and handle unavailable storage; no account, remote service or real learner-profile testing is involved. Original PDF bytes, filenames, paper IDs, old links, offline operation and anonymous branding remain.
+
+Reviewed all fifty-two rendered frames for scientific meaning and diagram readability. Independent teaching-model checks cover form-factor geometry, d-wave identities, separate entropy integration and equal domain counts. Distinguish toy curves from measurements; static/dynamical response; stripe phase/composite orientation; explicit fields/spontaneous order; historical proposals; and phenomenological Kondo-like evidence. The absent source supplement remains excluded.
+
+Local checks pass for thirteen complete lesson flows, keyboard/dialog controls, prediction/retry, preserved unrelated storage, mobile/tablet/desktop widths, no-script access, dark views, CSS enlargement and reduced-motion emulation. Corrected enlargement overflow and misleading draft diagram details during review. All 439 local links and thirteen original hashes pass. Existing study controls and detailed reading remain available. Detailed private authoring/test evidence stays outside this repository.
+
+State at this entry: ready for the authorized Pages update; hosted verification and archival will be appended. This is a design for visual understanding and active recall, not a measured human learning-speed result.

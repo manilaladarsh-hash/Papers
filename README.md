@@ -6,6 +6,10 @@ Seven connected topics, thirteen original papers and detailed visual study notes
 
 Start with **Cuprate reviews** for the map, then follow the reading path. Search or filter the full paper catalog. Each topic links to original PDFs, explains the arguments and assumptions, and separates historical conclusions from interpretation. The seven added papers include essential equations, symbol explanations, figure-reading prompts and self-check questions with answers. The original six nematicity notes include additional argument walkthroughs.
 
+**Start learning visually:** every paper now has a four-picture story with one clear takeaway per picture, source-page links and a prediction question with explanatory feedback. Fifty-two teaching pictures cover all thirteen papers. Step forward/back, jump between pictures or enlarge a diagram. The visual path filters by topic or unchecked recall. Optional recall checks stay in your browser; they are a reading aid, not a claim of mastery.
+
+The magnetic-probe explorer lets you change the nuclear coupling and move a teaching spin-response peak, exposing the difference between host fluctuations and the weighted signal. Its two-site geometry, one-dimensional cut and area ratio are explicitly teaching assumptions. Detailed arguments, essential equations, author figures and complete source PDFs remain available after the visual lesson.
+
 Interactive views are labeled simplified teaching models; they do not reproduce measured data or the papers' numerical simulations. Attributed figure excerpts link to their complete source pages. Website branding contains no personal name.
 
 ## Reading online or offline
@@ -29,5 +33,7 @@ Source versions, page coverage and scientific limits appear in the notes and `ev
 ## Hosting and maintenance
 
 GitHub Pages serves the `main` branch root with `.nojekyll`. The root page is the catalog and reading path; seven `topics/*/index.html` pages contain the study material. Shared `library.css` and `library.js` handle the expanded library. The nematicity chapter retains its original `styles.css` and `app.js`, plus `nematicity-deep.css`. Previous root links such as `#paper-35` redirect to the corresponding nematicity note.
+
+Shared `visual.css` and `visual.js` handle the thirteen lesson steppers, prediction feedback, accessible enlargement dialogs, topic/recall filters, optional local progress and probe explorer. Script-disabled readers can see every picture and reveal answers through native expandable sections. The new local recall key is separate from other browser data and handles unavailable storage gracefully. No runtime service or API is required.
 
 All source links are relative for hosted and extracted-folder reading. PDF `#page=` handling depends on the viewer. The local authoring sources and detailed private test evidence are maintained separately. Rebuild through the expanded library builder; the old single-topic publisher refuses to overwrite a multi-topic publication.

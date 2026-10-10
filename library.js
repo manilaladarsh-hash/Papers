@@ -10,6 +10,9 @@
   document.getElementById('reset-search')?.addEventListener('click',()=>{search.value='';select.value='';filter();search.focus();});
   document.getElementById('expand-study')?.addEventListener('click',()=>document.querySelectorAll('details.study-more').forEach(d=>d.open=true));
   document.getElementById('collapse-study')?.addEventListener('click',()=>document.querySelectorAll('details.study-more').forEach(d=>d.open=false));
+  function openTarget(hash){const target=document.getElementById(hash.slice(1));if(target?.matches('details'))target.open=true;}
+  document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>openTarget(a.getAttribute('href'))));
+  addEventListener('hashchange',()=>openTarget(location.hash));openTarget(location.hash);
   const oldIDs = ['35','1','3','22','25','296'];
   if(document.body.dataset.page==='hub' && oldIDs.some(id=>location.hash===`#paper-${id}`))location.replace(`topics/nematicity/index.html${location.hash}`);
   document.querySelectorAll('[data-widget]').forEach(widget=>{

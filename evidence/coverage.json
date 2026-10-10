@@ -102,5 +102,449 @@
       "pages": 4,
       "review": "All four PDF pages inspected in text. Figures 2–4 and the resistance-anisotropy normalization visually checked because extracted mathematical glyphs were unreliable. Published 7 March 2006; DOI 10.1103/PhysRevLett.96.097003."
     }
-  ]
+  ],
+  "visual_learning": {
+    "lessons": 13,
+    "pictures": 52,
+    "prediction_questions": 13,
+    "source_links": [
+      {
+        "id": "28",
+        "steps": [
+          {
+            "title": "Start with the Cu–O plane",
+            "pdf_pages": [
+              1,
+              3
+            ]
+          },
+          {
+            "title": "Order can disappear while correlations remain",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Read the sign, not just the magnitude",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          },
+          {
+            "title": "Separate two questions",
+            "pdf_pages": [
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0",
+        "steps": [
+          {
+            "title": "An electron changes its surroundings",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "An interaction has a spatial and spin structure",
+            "pdf_pages": [
+              2,
+              4
+            ]
+          },
+          {
+            "title": "Match symmetry to sign structure",
+            "pdf_pages": [
+              3,
+              5
+            ]
+          },
+          {
+            "title": "Keep mechanism and evidence separate",
+            "pdf_pages": [
+              5,
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "steps": [
+          {
+            "title": "Resolve spin response in momentum",
+            "pdf_pages": [
+              2,
+              5
+            ]
+          },
+          {
+            "title": "The nucleus applies a filter",
+            "pdf_pages": [
+              5,
+              6
+            ]
+          },
+          {
+            "title": "Relaxation detects dynamics",
+            "pdf_pages": [
+              5,
+              6
+            ]
+          },
+          {
+            "title": "One model connects several observables",
+            "pdf_pages": [
+              7,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "id": "206",
+        "steps": [
+          {
+            "title": "Translate the measured quantity",
+            "pdf_pages": [
+              1,
+              1
+            ]
+          },
+          {
+            "title": "Look at the depleted window",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Entropy remembers lower temperatures",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Area depends on what is plotted",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "steps": [
+          {
+            "title": "Compare local patterns",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Disorder can pin a response",
+            "pdf_pages": [
+              2,
+              4
+            ]
+          },
+          {
+            "title": "Global peaks lose local information",
+            "pdf_pages": [
+              3,
+              6
+            ]
+          },
+          {
+            "title": "Add the missing constraints",
+            "pdf_pages": [
+              5,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "steps": [
+          {
+            "title": "Stripes choose both position and direction",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Different paths accumulate different phases",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Pair phase is a different coupling",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Keep orientation; lose position",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "steps": [
+          {
+            "title": "Distort shape without adding a density period",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Fluctuations share energy with electrons",
+            "pdf_pages": [
+              2,
+              4
+            ]
+          },
+          {
+            "title": "Compare low-energy powers",
+            "pdf_pages": [
+              3,
+              5
+            ]
+          },
+          {
+            "title": "A lattice selects discrete directions",
+            "pdf_pages": [
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "steps": [
+          {
+            "title": "Identify the orbital geometry",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Read the projected motion",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Compare powers before coefficients",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          },
+          {
+            "title": "Treat it as an existence mechanism",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "steps": [
+          {
+            "title": "The Ising label is an orientation",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Disorder and neighbors compete",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Resistance depends on connections",
+            "pdf_pages": [
+              2,
+              4
+            ]
+          },
+          {
+            "title": "Read history and switching carefully",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "steps": [
+          {
+            "title": "Ask which symmetry changes",
+            "pdf_pages": [
+              3,
+              5
+            ]
+          },
+          {
+            "title": "A field can expose or impose an axis",
+            "pdf_pages": [
+              5,
+              9
+            ]
+          },
+          {
+            "title": "Combine independent probes",
+            "pdf_pages": [
+              9,
+              18
+            ]
+          },
+          {
+            "title": "Keep the material context",
+            "pdf_pages": [
+              14,
+              21
+            ]
+          }
+        ]
+      },
+      {
+        "id": "296",
+        "steps": [
+          {
+            "title": "Start with two complex stripe fields",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Pinning destroys common phase",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Intensity can still choose an axis",
+            "pdf_pages": [
+              2,
+              4
+            ]
+          },
+          {
+            "title": "Layer coupling changes the limit",
+            "pdf_pages": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "id": "340",
+        "steps": [
+          {
+            "title": "A dimer and an ordered antiferromagnet differ",
+            "pdf_pages": [
+              2,
+              4
+            ]
+          },
+          {
+            "title": "Tune the ground state",
+            "pdf_pages": [
+              1,
+              4
+            ]
+          },
+          {
+            "title": "Temperature introduces another length",
+            "pdf_pages": [
+              4,
+              5
+            ]
+          },
+          {
+            "title": "The observable still matters",
+            "pdf_pages": [
+              5,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "id": "342",
+        "steps": [
+          {
+            "title": "Put a spinless defect in the correlated plane",
+            "pdf_pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "title": "Read the nucleus as a local sensor",
+            "pdf_pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "A scale bends a Curie response",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          },
+          {
+            "title": "Move from analogy to a test",
+            "pdf_pages": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "limits": [
+      "All new drawings are teaching schematics or labeled toy calculations, not measurements or reconstructed source simulations.",
+      "Equal two-site form factor derived from the assumed geometry; Moriya supplies the dynamical weighting framework, not that nuclear geometry calculation.",
+      "Triangular-DOS entropy uses a fixed chemical potential and kB=1 teaching units; it is not a calorimetric fit.",
+      "Critical fan uses z=nu=1 teaching scaling, not the exponent of every material or the source dimer model.",
+      "Schematic damping linewidths and hysteresis branches do not calculate source mode spectra or experimental time."
+    ],
+    "learner_state": "Optional recall checks under a separate browser-local key; no server or account synchronization."
+  }
 }
