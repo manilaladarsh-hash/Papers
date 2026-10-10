@@ -23,3 +23,11 @@ All substantive body sections were reviewed. The 2010 review bibliography was ch
 ### Publication setup and next action
 
 Use GitHub Pages from the `main` branch root, with `.nojekyll`. Expected website: https://manilaladarsh-hash.github.io/Papers/. Completion requires a successful Pages build and direct checks of the deployed HTML, assets and all six source PDF targets. Maintain the relative paths and reviewed source limits during future updates; process another topic only after an explicit request.
+
+### Publication confirmed
+
+The website is live at **https://manilaladarsh-hash.github.io/Papers/**. GitHub Pages successfully built publication commit `b859ea2f4936eaeae8465198ac81292b588364f9` from `main` at the repository root, with HTTPS enforced. Direct hosted checks passed: homepage HTTP 200, six notes, all 11 production HTML/CSS/JavaScript/metadata/figure files matching the prepared package, and all six PDF downloads matching their original SHA-256 hashes.
+
+Hosted controls, review filtering/reset, expandable notes, PDF-link navigation, 390px mobile layout and script-disabled reading passed, with no page errors or failed site responses. Desktop and mobile live screenshots were visually reviewed. The local offline version remains available. User-facing project and knowledge records are updated with the permanent website and repository links.
+
+Status: upload and publication completed for this topic. Next action: bookmark the website and use it for reading; future updates publish from `main`. Other library topics remain outside this installment.
