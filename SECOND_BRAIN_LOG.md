@@ -43,3 +43,13 @@ Architecture: root catalog/path; topics pages; library.css/library.js; original 
 Resolved deeper-folder links and source-figure cropping. Test setup was corrected to await lazy images and use valid range-control values. Static checks passed for eight HTML pages and 349 resolving links in each package, no visible personal name, and thirteen identical original PDF hashes. Headless Chrome checks passed for thirteen articles/seven topics, search/filter/reset, themes, teaching controls, answer reveals, expandable notes, legacy links, 390px layouts, no-script reading and reduced-motion emulation; no page errors or failed responses.
 
 Current state at this entry: prepared and checked locally; deployment and hosted verification pending. The observed publication result will be appended. PDF page fragments depend on the viewer; reduced motion was emulated, not changed at the OS level. Historical source claims are not presented as an updated literature survey.
+
+### Verified publication and completion
+
+Published commit 2a58e0d72f6663117ecff6d3561f5072fc73e1e3 to main. GitHub Pages reported this exact commit successfully built with no error. Website: https://manilaladarsh-hash.github.io/Papers/.
+
+Direct hosted checks passed for all eight pages, five shared styles/scripts, two inventories and fourteen figure assets, matching prepared bytes. All thirteen complete PDF downloads returned HTTP success with identical original SHA-256 hashes. Hosted navigation/search/filter, themes, teaching controls, notes/answers, legacy links, 390px layouts and no-script reading passed without page errors or failed responses. Viewed live screenshots.
+
+An initial strict text comparison detected Git's Windows-to-LF line-ending normalization. The local builder now emits LF explicitly; the original strict byte checks then passed without relaxed comparisons. Source bytes were never changed.
+
+Merged and read back the expanded project, source synthesis, preferences and companion-study links in the existing connected Second Brain; historical entries and original archive children were preserved. Detailed evidence remains local. Current status: seven-topic expansion, deeper study material and publication completed. Bookmark the website and start with Cuprate reviews; other library folders are outside this installment.
