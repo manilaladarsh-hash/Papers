@@ -17,3 +17,13 @@ Phone review found small SVG labels; lessons now retain a readable scrollable pi
 Publication preparation also sets explicit binary attributes for PDFs/images and LF for site text. All48 Git-index PDF blobs were checked against the original hashes before release, preventing heuristic text normalization of text-like PDF headers. Repository metadata is separate from the234 files used by the website.
 
 Prepared website: https://manilaladarsh-hash.github.io/Papers/materials/ . Live deployment and durable Second Brain merge are the next acceptance steps.
+
+## 2026-10-10 — Published and verified live
+
+Release bc6bd078303d67be1b2b084fd62209e83463d575 was pushed to Papers/main and successfully built by GitHub Pages. The separate Materials website is live at https://manilaladarsh-hash.github.io/Papers/materials/ .
+
+Direct hosted acceptance passed all48 lesson flows and192 frames: stepping, keyboard, prediction feedback, dialogs, detail/answer access, original-page images, recall persistence/queue, independent and unavailable storage, filters/theme and teaching controls. All63 routes fit390/768/1440 widths; no-script reading, CSS enlargement and emulated reduced motion passed. Every234 production file matches the prepared SHA-256, including all48 full original PDF downloads. Final hosted mobile panning/enlargement, caption/legend context, anchor placement and detailed/source views were observed and screenshots reviewed.
+
+The existing project, Knowledge Base, Memory Bank and source-library records were updated in the durable Second Brain and fetched again. Stronger unpublished exclusions, source decisions, completed status and website links are preserved alongside historical entries and existing archive children. Root/local logs and private acceptance evidence retain fuller reproducibility. This public record contains no private extracts or local paths.
+
+All requested Materials content, separate publication, preservation and archival work is complete. Next action: bookmark the website, choose a material, step through the pictures, predict/explain, then open the detailed argument and source figures. Native browser-menu zoom, OS-setting changes, PDF-plugin page scrolling and measured human learning-speed gains are not claimed.
