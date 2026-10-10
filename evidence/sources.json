@@ -1,5 +1,68 @@
 [
   {
+    "id": "28",
+    "title": "From quantum matter to high-temperature superconductivity in copper oxides",
+    "author": "Keimer",
+    "year": "2015",
+    "filename": "Nature - Keimer - Quantum matter and high temperature superconductivity - 2015.pdf",
+    "pages": 8,
+    "sha256": "f332c5c7b3fe9f0a684613b0aade4498a53e892ff4cfa8e6339a5af095d6ace8"
+  },
+  {
+    "id": "340",
+    "title": "Quantum criticality",
+    "author": "Sachdev",
+    "year": "2011",
+    "filename": "PhysToday - Sachdev - Quantum criticality - 2011.pdf",
+    "pages": 7,
+    "sha256": "6feef32c1e6351f2a655db9738d705d395f0ca9eea584a86587a0d5c483f281e"
+  },
+  {
+    "id": "206",
+    "title": "Specific heat evidence on the normal state pseudogap",
+    "author": "Loram",
+    "year": "1998",
+    "filename": "JPhysChemSolids - Loram - Specific heat evidence for the normal state pseudogap - 1998.pdf",
+    "pages": 4,
+    "sha256": "1647f7a7a803e3deefe97177d5fbc5543386d7c7e0f50447c3d8f25cafabdb58"
+  },
+  {
+    "id": "2",
+    "title": "Distinguishing Patterns of Charge Order - Stripes or Checkerboards",
+    "author": "Robertson",
+    "year": "2006",
+    "filename": "arXiv - Robertson - Charge order - stripes or checkerboards - 2006.pdf",
+    "pages": 11,
+    "sha256": "a25f99993fd9671144f1506b80961e8863db9b3d7722c72c0c3a512e59fcbefd"
+  },
+  {
+    "id": "9",
+    "title": "Antiferromagnetic Spin Fluctuations and Superconductivity in Two-Dimensional Metals - A Possible Model for High Tc Oxides",
+    "author": "Moriya",
+    "year": "1990",
+    "filename": "JPSJ - Moriya - AF spin fluctuations and superconductivity in 2D metals - 1990.pdf",
+    "pages": 11,
+    "sha256": "e54ee1744dddd947cbf58470671512aa10dcbea339f93284eabc5deb4c1fc2aa"
+  },
+  {
+    "id": "0",
+    "title": "Superconductivity without phonons",
+    "author": "Monthoux",
+    "year": "2007",
+    "filename": "Nature - Monthoux - Superconductivity without phonons - 2007.pdf",
+    "pages": 7,
+    "sha256": "7cad94ebffa7491dcb7436098bbb2f3c4d34dfe02fee753845f1423df27294c5"
+  },
+  {
+    "id": "342",
+    "title": "Spinless Impurities in High-Tc Cuprates - Kondo-Like Behavior",
+    "author": "Bobroff",
+    "year": "1999",
+    "filename": "PRL - Bobroff - Spinless impurities and Kondo-like behavior in cuprates - 1999.pdf",
+    "pages": 4,
+    "sha256": "0a32c8c3b6d6d0a7d80fa6916fca1b36c37639c3b547c6e8f8c1b08c709e023f"
+  },
+  {
     "id": "25",
     "title": "Nematic Fermi Fluids in Condensed Matter Physics",
     "author": "Fradkin",

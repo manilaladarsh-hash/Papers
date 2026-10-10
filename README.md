@@ -1,30 +1,33 @@
-# Nematicity reading room
+# Cuprate reading library
 
-**[Open the visual reading room](https://manilaladarsh-hash.github.io/Papers/)**
+**[Open the reading library](https://manilaladarsh-hash.github.io/Papers/)**
 
-One connected introduction to electronic nematicity through six papers: symmetry, stripe melting, metallic instabilities, the Cu–O plane, disorder, domains and experimental probes. Each paper has a concise main idea, an expandable scientific note and links to relevant pages of its original PDF.
+Seven connected topics, thirteen original papers and detailed visual study notes: cuprate reviews, pairing and superconductivity, pseudogap and thermodynamics, stripes and charge order, electronic nematicity, quantum criticality, and spinless impurities/Kondo-like physics.
 
-Interactive views are labeled teaching models. Author figure excerpts are attributed and link to the original source. The six PDFs already in this repository are retained without renaming or changing their bytes.
+Start with **Cuprate reviews** for the map, then follow the reading path. Search or filter the full paper catalog. Each topic links to original PDFs, explains the arguments and assumptions, and separates historical conclusions from interpretation. The seven added papers include essential equations, symbol explanations, figure-reading prompts and self-check questions with answers. The original six nematicity notes include additional argument walkthroughs.
 
-## Reading online or locally
+Interactive views are labeled simplified teaching models; they do not reproduce measured data or the papers' numerical simulations. Attributed figure excerpts link to their complete source pages. Website branding contains no personal name.
 
-Use the website link above from any browser. No account is needed. To read offline, download this repository as a ZIP, extract it and open `index.html`; keep the PDFs, `assets` and `evidence` folders beside it. There is no server, installation or build step.
+## Reading online or offline
+
+Bookmark the link above. No login is needed. For offline use, download this repository as a ZIP, extract it and open `index.html`. Keep the PDFs, `topics`, `assets`, styles, scripts and `evidence` beside it. No installation or server is needed. Original PDF filenames and bytes are preserved.
 
 ## Sources and coverage
 
-- Kivelson, Fradkin and Emery — electronic liquid-crystal phases, stored 1997 preprint.
-- Oganesyan, Kivelson and Fradkin — quantum theory of a nematic Fermi fluid, 2001 v2.
-- Kivelson, Fradkin and Geballe — nematic phases in the Emery model, 2004.
-- Carlson, Dahmen, Fradkin and Kivelson — hysteresis and noise from electronic nematicity, 2006.
-- Fradkin et al. — nematic Fermi fluids review, 2010.
-- Nie, Tarjus and Kivelson — quenched disorder and vestigial nematicity, 2014.
+The thirteen supplied files total 107 pages. All substantive body sections were reviewed, including visually reading the scanned Moriya paper. Bibliographies were inspected for structure; every cited work was not independently reviewed. Nie's external Supporting Information is absent and remains unreviewed. These notes explain the supplied historical versions and do not constitute an updated literature survey.
 
-All substantive body sections of the supplied PDFs were reviewed. The review bibliography was checked for structure, rather than independently reviewing every cited paper. Nie's external Supporting Information is absent and unreviewed. This is a historical six-source synthesis, not a current literature survey. Source versions, conditions, scientific limits and hashes are recorded in the notes and `evidence/coverage.json`.
+- **Cuprates:** Keimer et al. (2015).
+- **Pairing:** Monthoux, Pines and Lonzarich (2007); Moriya, Takahashi and Ueda (1990).
+- **Pseudogap:** Loram et al. (1998).
+- **Stripes:** Robertson et al., supplied 2006 preprint v2.
+- **Nematicity:** Kivelson–Fradkin–Emery (stored 1997 preprint), Oganesyan–Kivelson–Fradkin (2001 v2), Kivelson–Fradkin–Geballe (2004), Carlson et al. (2006), Fradkin et al. (2010), Nie–Tarjus–Kivelson (2014).
+- **Criticality:** Sachdev and Keimer (2011).
+- **Impurities:** Bobroff et al. (1999).
 
-The papers and reproduced author figures remain the work of their respective authors and publishers; this repository does not relicense them. Educational explanations, cartoons and exact toy calculations are distinguished from the source authors' results and measured data.
+Source versions, page coverage and scientific limits appear in the notes and `evidence/coverage.json`. `evidence/sources.json` records source metadata and original SHA-256 hashes. The papers and author figures remain the work of their authors and publishers; this repository does not relicense them.
 
 ## Hosting and maintenance
 
-GitHub Pages serves the `main` branch root. `.nojekyll` preserves the ordinary static files without a Jekyll build. `index.html` contains all notes; `app.js` adds controls and `styles.css` supplies the layout. Relative PDF links keep both the hosted and downloaded versions working. Page fragments use `#page=`; exact handling depends on the PDF viewer.
+GitHub Pages serves the `main` branch root with `.nojekyll`. The root page is the catalog and reading path; seven `topics/*/index.html` pages contain the study material. Shared `library.css` and `library.js` handle the expanded library. The nematicity chapter retains its original `styles.css` and `app.js`, plus `nematicity-deep.css`. Previous root links such as `#paper-35` redirect to the corresponding nematicity note.
 
-The original local authoring source and detailed test evidence are retained outside this publication repository. This repository contains the production website, public coverage metadata and existing source PDFs. Only this Nematicity topic has been prepared.
+All source links are relative for hosted and extracted-folder reading. PDF `#page=` handling depends on the viewer. The local authoring sources and detailed private test evidence are maintained separately. Rebuild through the expanded library builder; the old single-topic publisher refuses to overwrite a multi-topic publication.

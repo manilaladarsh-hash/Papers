@@ -31,3 +31,15 @@ The website is live at **https://manilaladarsh-hash.github.io/Papers/**. GitHub 
 Hosted controls, review filtering/reset, expandable notes, PDF-link navigation, 390px mobile layout and script-disabled reading passed, with no page errors or failed site responses. Desktop and mobile live screenshots were visually reviewed. The local offline version remains available. User-facing project and knowledge records are updated with the permanent website and repository links.
 
 Status: upload and publication completed for this topic. Next action: bookmark the website and use it for reading; future updates publish from `main`. Other library topics remain outside this installment.
+
+## 2026-10-10 — Expanded to seven topics and thirteen papers
+
+The authorized update adds cuprate reviews, quantum criticality, pseudogap/thermodynamics, stripes/charge order, pairing/superconductivity and impurity/Kondo-like physics to the existing nematicity chapter. Website branding is anonymous. The supplied thirteen PDFs total 107 pages; all substantive body sections were reviewed, including visually reading the Moriya scan. Bibliographies were inspected rather than every cited work independently reviewed. Nie's absent external supplement remains excluded.
+
+Built a connected hub and seven topic pages with detailed source-linked explanations, essential equations, attributed figure walkthroughs, self-check answers, a glossary and reading path. Six new topic controls are labeled simplified teaching models. Added seven original PDFs while retaining the six existing originals without renaming or changing bytes. Preserved original paper IDs and previous root-fragment links. Public metadata contains source hashes and coverage, with no local private paths.
+
+Architecture: root catalog/path; topics pages; library.css/library.js; original nematicity styles/app with a narrow deeper-notes stylesheet; fourteen source-figure assets. Authoring sources, full-page renders, text extraction, backups and detailed test screenshots remain outside this repository. Local and hosted source links use relative paths.
+
+Resolved deeper-folder links and source-figure cropping. Test setup was corrected to await lazy images and use valid range-control values. Static checks passed for eight HTML pages and 349 resolving links in each package, no visible personal name, and thirteen identical original PDF hashes. Headless Chrome checks passed for thirteen articles/seven topics, search/filter/reset, themes, teaching controls, answer reveals, expandable notes, legacy links, 390px layouts, no-script reading and reduced-motion emulation; no page errors or failed responses.
+
+Current state at this entry: prepared and checked locally; deployment and hosted verification pending. The observed publication result will be appended. PDF page fragments depend on the viewer; reduced motion was emulated, not changed at the OS level. Historical source claims are not presented as an updated literature survey.
