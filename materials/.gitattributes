@@ -1,0 +1,8 @@
+pdfs/*.pdf binary
+.gitattributes text eol=lf
+assets/*.webp binary
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf

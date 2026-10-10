@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "42",
+    "filename": "InorgChem - Climent-Pasc. - Spin one-half delafossite honeycomb Cu5SbO6 - 2011.pdf",
+    "material": "Cu5SbO6",
+    "pages": 9,
+    "sha256": "7518af3b71f4c7cec2fe0e2a63f9613001d7bb398a5a8898165e1805a73212b6",
+    "author": "Climent-Pascual",
+    "year": "2011",
+    "catalog_hash_matches": true,
+    "title": "Spin 1/2 Delafossite Honeycomb Compound Cu5SbO6",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "method": "Complete extracted body text and selected rendered pages 5,7,8; reference-page structure checked.",
+      "unreviewed": "Referenced works not independently re-read."
+    }
+  },
+  {
+    "id": "43",
+    "filename": "Preprint - Piyakulworawat - Coupled dimerized spin chains in Cu5SbO6 - 2025.pdf",
+    "material": "Cu5SbO6",
+    "pages": 16,
+    "sha256": "69e9d642bc223e75a7c967950194f7baa424b61fa0673ab2502dd60d65b142bf",
+    "author": "Piyakulworawat",
+    "year": "2025",
+    "catalog_hash_matches": true,
+    "title": "Coupled dimerized alternating-bond quantum spin chains in the distorted honeycomb-lattice magnet Cu5SbO6",
+    "kind": "experiment and theory",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "method": "Complete body and appendix text read; rendered structure, band/DOS and final appendix equations checked on pages 2,9,13,14; references 14–16 inspected structurally.",
+      "unreviewed": "Cited manuscript-in-preparation and other references not independently reviewed."
+    }
+  },
+  {
+    "id": "297",
+    "filename": "JPSJ - Nishihara - La NQR and NMR in antiferromagnetic La2CuO4 - 1987.pdf",
+    "material": "La2CuO4",
+    "pages": 12,
+    "sha256": "fb101415842b427299d33068acd2feaa70e24d211bcf51e1dda775f751fa33dd",
+    "author": "Nishihara",
+    "year": "1987",
+    "catalog_hash_matches": true,
+    "title": "NQR and NMR of ¹³⁹La in Antiferromagnetic La₂CuO₄₋δ",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "method": "All 12 scanned PDF pages rendered and read visually, including equations and figures",
+      "unreviewed": "Reference list inspected; cited works not independently reviewed."
+    }
+  },
+  {
+    "id": "337",
+    "filename": "PRB - Tidey - Structural origins of LTO-LTT transitions in cuprates - 2022.pdf",
+    "material": "La2MgO4_and_Cuprate_Structure",
+    "pages": 6,
+    "sha256": "eae07279bc246bd8ef06520649815a5b12ede0109c44f3929e04fc4577edbf4e",
+    "author": "Tidey",
+    "year": "2022",
+    "catalog_hash_matches": true,
+    "title": "Structural origins of the low-temperature orthorhombic to low-temperature tetragonal phase transition in high-Tc cuprates",
+    "kind": "experiment and theory",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "Complete six-page PDF text read; rendered pages 2–4 inspected for structures, diffraction, mode conventions and energy plots.",
+      "unreviewed": "The separately referenced Supplemental Material and external data are not supplied in this PDF and were not reviewed; references are not independently re-read."
+    }
+  },
+  {
+    "id": "38",
+    "filename": "JLowTempPhys - Axe - Structural instabilities in lanthanum cuprates - 1994.pdf",
+    "material": "La_Cuprates_Shared",
+    "pages": 14,
+    "sha256": "cb403b19cfd3199ad617b4f91f7ccb9d3b7fefd50c99781f645d64da7632ee09",
+    "author": "Axe",
+    "year": "1994",
+    "catalog_hash_matches": true,
+    "title": "Structural Instabilities in Lanthanum Cuprate Superconductors",
+    "kind": "review",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "method": "Complete review body on pages 1–12 read; rendered pages 2, 5, 6 and 8 inspected for structural and phonon schematics and the comparative tilt-angle table. Reference pages 13–14 checked as reference material.",
+      "unreviewed": "External cited papers are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "41",
+    "filename": "PRB - Crawford - Lattice instabilities and CuO2 distortions in doped La2CuO4 - 1991.pdf",
+    "material": "La_Cuprates_Shared",
+    "pages": 4,
+    "sha256": "75a48386988b1c07e1183d38e580cf1fd31990d96a9d9b25a65e4a09fa7ed687",
+    "author": "Crawford",
+    "year": "1991",
+    "catalog_hash_matches": true,
+    "title": "Lattice instabilities and the effect of copper-oxygen-sheet distortions on superconductivity in doped La₂CuO₄",
+    "kind": "experiment and theory",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete four-page text read; rendered pages 2–3 inspected for diffraction, component definitions, phase diagrams and model equation.",
+      "unreviewed": "References are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "24",
+    "filename": "PRB - Fang - Electron nematic order in LaFeAsO - 2008.pdf",
+    "material": "LaFeAsO_Iron_Pnictides",
+    "pages": 6,
+    "sha256": "e91227d8d61e62f93f1d6b22634cc25fb7c7c1cd7682d0490f42167582317246",
+    "author": "Fang",
+    "year": "2008",
+    "catalog_hash_matches": true,
+    "title": "Theory of electron nematic order in LaFeAsO",
+    "kind": "theory",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "method": "Full extracted body and reference notes read; rendered model and finite-temperature equations/figures on pages 2 and 4 checked.",
+      "unreviewed": "Cited experiments and references not independently re-read."
+    }
+  },
+  {
+    "id": "338",
+    "filename": "PRB - Furukawa - NMR correlations near the Mott transition in LaSrTiO3 - 1999 - version 338.pdf",
+    "material": "LaSrTiO3_Titanates",
+    "pages": 9,
+    "sha256": "da4f63d038d4e6efd9793e0bc0159fc41a0a2d2321b0f8b78fe482a536b95943",
+    "author": "Furukawa",
+    "year": "1999",
+    "catalog_hash_matches": false,
+    "title": "Electronic correlations on the verge of the Mott transition in La1−xSrxTiO3 by 47/49Ti and 139La nuclear magnetic resonance — additional supplied version",
+    "kind": "version",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "method": "All nine extracted pages compared with source 45 and found identical; all nine rendered pages compared pixel-by-pixel and found identical at inspection resolution; same body reviewed via source 45.",
+      "unreviewed": "Cited works not independently re-read; hidden PDF metadata differences are not scientifically interpreted."
+    }
+  },
+  {
+    "id": "45",
+    "filename": "PRB - Furukawa - NMR correlations near the Mott transition in LaSrTiO3 - 1999.pdf",
+    "material": "LaSrTiO3_Titanates",
+    "pages": 9,
+    "sha256": "077fd3fd23d7c15cc37c06accc4cf3f5e1ef3d775d4ae45e047704bae0cb9425",
+    "author": "Furukawa",
+    "year": "1999",
+    "catalog_hash_matches": true,
+    "title": "Electronic correlations on the verge of the Mott transition in La1−xSrxTiO3 by 47/49Ti and 139La nuclear magnetic resonance",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "method": "All extracted body text read; all nine pages rendered for version comparison, with model/equations and figures on pages 5–8 visually checked; references 8–9 structurally reviewed.",
+      "unreviewed": "Cited works not independently re-read."
+    }
+  },
+  {
+    "id": "341",
+    "filename": "PRL - Tokura - Electronic properties near the Mott transition in LaSrTiO3 - 1993.pdf",
+    "material": "LaSrTiO3_Titanates",
+    "pages": 4,
+    "sha256": "bf98d680786c43a0a034cf716897edbd13d97ab4a5df8d378449c610c1335e74",
+    "author": "Tokura",
+    "year": "1993",
+    "catalog_hash_matches": true,
+    "title": "Filling Dependence of Electronic Properties on the Verge of Metal-Mott-Insulator Transitions in Sr1−xLaxTiO3",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "All four pages read in extracted text; rendered plots and equations on pages 2–4 checked.",
+      "unreviewed": "Cited works not independently re-read."
+    }
+  },
+  {
+    "id": "20",
+    "filename": "PhysicaB - Ikeda - Doping dependence of spin dynamics in LBCO by Cu NQR - 2000.pdf",
+    "material": "LBCO",
+    "pages": 2,
+    "sha256": "09f6ca97691dec1808f329966c7122e7b714e64f02f9273f5bc32f1703679f27",
+    "author": "Ikeda",
+    "year": "2000",
+    "catalog_hash_matches": true,
+    "title": "Doping level dependence of low-frequency spin dynamics in La₂₋ₓBaₓCuO₄ studied by Cu-NQR",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2
+      ],
+      "method": "Complete extracted text and rendered Fig. 1/Fig. 2 inspected",
+      "unreviewed": "References not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "33",
+    "filename": "arXiv - Tranquada - LBCO as a superconducting Rosetta Stone - 2023.pdf",
+    "material": "LBCO",
+    "pages": 10,
+    "sha256": "e600f7dc04dda0855619f82f5c3f058ba66c6155752476ef616ff7b99b5e7a35",
+    "author": "Tranquada",
+    "year": "2023",
+    "catalog_hash_matches": true,
+    "title": "La₂₋ₓBaₓCuO₄ as a superconducting Rosetta Stone",
+    "kind": "review; supplied arXiv v1",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "method": "Complete supplied arXiv v1 body read on pages 1–6; rendered pages 3–5 inspected for historical plots, stripes and pairing cartoon. Reference pages 6–10 checked as reference material.",
+      "unreviewed": "External papers summarized in the review are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "4",
+    "filename": "PRB - Hucker - Stripe order in superconducting LBCO - 2011.pdf",
+    "material": "LBCO",
+    "pages": 16,
+    "sha256": "e0302eb7ec9e30a75073e6f878742cd720ec02c2278748de13ae6e301bb3a253",
+    "author": "Hucker",
+    "year": "2011",
+    "catalog_hash_matches": true,
+    "title": "Stripe order in superconducting La₂₋ₓBaₓCuO₄ (0.095 ≤ x ≤ 0.155)",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "method": "Complete sixteen-page PDF read, including reference-section methodological footnotes on pages 15–16; rendered pages 2, 3, 5, 9, 11 and 12 inspected for structure, satellites, ordering clocks, resolution and calibration.",
+      "unreviewed": "External cited papers and raw datasets are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "36",
+    "filename": "PRL - Axe - Structural transitions and superconductivity in LBCO - 1989.pdf",
+    "material": "LBCO",
+    "pages": 4,
+    "sha256": "559c45049f444d0e265edeb58ebb032417fab67493c16dcaf29cbed516ac271d",
+    "author": "Axe",
+    "year": "1989",
+    "catalog_hash_matches": true,
+    "title": "Structural Phase Transformations and Superconductivity in La₂₋ₓBaₓCuO₄",
+    "kind": "experiment and theory",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete four-page PDF text read; rendered pages 1–3 inspected for diffraction, structural phase boundaries, equations and the structural–Tc comparison.",
+      "unreviewed": "External references are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "272",
+    "filename": "JPSJ - Uemura - Meissner effect versus composition in LBCO - 1991.pdf",
+    "material": "LBCO",
+    "pages": 6,
+    "sha256": "180fe29f8e7b55b5358809627cc05b8e343d2352febf934ba421eba9fd223fe2",
+    "author": "Uemura",
+    "year": "1991",
+    "catalog_hash_matches": true,
+    "title": "Meissner Effect in La₂₋ₓBaₓCuOᵧ as Functions of x and y",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "All six scanned PDF pages read visually at full page resolution, including figures and conclusion.",
+      "unreviewed": "References are not independently re-read; no separate supplementary file supplied."
+    }
+  },
+  {
+    "id": "273",
+    "filename": "JPSJ - Yoshimura - Compositional phase separation near optimum LBCO - 1993.pdf",
+    "material": "LBCO",
+    "pages": 4,
+    "sha256": "f09128834a5aa1de61fdc2c8427e26f9e03ef04b415a861752e3f85f51bb4268",
+    "author": "Yoshimura",
+    "year": "1993",
+    "catalog_hash_matches": true,
+    "title": "Compositional Phase Separation in La₂₋ₓBaₓCuOᵧ near the Optimum Composition for Superconductivity",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "All four scanned PDF pages read visually at full page resolution, including diffraction figures and kinetic discussion.",
+      "unreviewed": "References are not independently re-read; no separate supplementary file supplied."
+    }
+  },
+  {
+    "id": "282",
+    "filename": "PRB - Moodenbaugh - Superconducting properties of LBCO - 1988.pdf",
+    "material": "LBCO",
+    "pages": 5,
+    "sha256": "5fd1b00949d4b387710c3d6b9632f7c3c16d3c124fd765d7c26cc80a273af388",
+    "author": "Moodenbaugh",
+    "year": "1988",
+    "catalog_hash_matches": true,
+    "title": "Superconducting properties of La₂₋ₓBaₓCuO₄",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied extracted text and selected rendered figures inspected",
+      "unreviewed": "Reference-only page 5 inspected; referenced papers not independently reviewed."
+    }
+  },
+  {
+    "id": "31",
+    "filename": "Science - Sarkar - Ferromagnetic order beyond the dome in LCCO - 2020.pdf",
+    "material": "LCCO",
+    "pages": 3,
+    "sha256": "bf2d933335be7f8837447ae35370985b883bdaa636165b29c66ed42bca0d3098",
+    "author": "Sarkar",
+    "year": "2020",
+    "catalog_hash_matches": true,
+    "title": "Ferromagnetic order beyond the superconducting dome in a cuprate superconductor",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3
+      ],
+      "method": "All three pages read; rendered transport, magnetization and Kerr figures on pages 1–2 checked.",
+      "unreviewed": "External supplementary methods/text/Figs.S1–S12 and their references are not supplied; cited works not independently re-read."
+    }
+  },
+  {
+    "id": "27",
+    "filename": "PNAS - Sonier - Ferromagnetic phase search in heavily overdoped LSCO - 2010.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "fde609b0ad4a80d061ca78c569c6ff5455c9b4ca02a774853b741472c014cb65",
+    "author": "Sonier",
+    "year": "2010",
+    "catalog_hash_matches": true,
+    "title": "Direct search for a ferromagnetic phase in a heavily overdoped nonsuperconducting copper oxide",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References not independently re-read. Online supporting information advertised by the source is absent from the supplied PDF."
+    }
+  },
+  {
+    "id": "26",
+    "filename": "PRB - MacDougall - Heterogeneous field response in overdoped LSCO by muSR - 2010.pdf",
+    "material": "LSCO",
+    "pages": 7,
+    "sha256": "74adbcafc76b1490cc06cec72ca106aa6dc88b6642ce68e701acd723bec17366",
+    "author": "MacDougall",
+    "year": "2010",
+    "catalog_hash_matches": true,
+    "title": "Muon spin rotation measurements of heterogeneous field response in overdoped La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "23",
+    "filename": "PRL - MacDougall - No broken time reversal symmetry in LSCO pseudogap by muSR - 2008.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "1ea6e9ba4491690713f4fe8094e76f16f4d905243fe901bbd312b012f5155072",
+    "author": "MacDougall",
+    "year": "2008",
+    "catalog_hash_matches": true,
+    "title": "Absence of Broken Time-Reversal Symmetry in the Pseudogap State of the High Temperature La2-xSrxCuO4 Superconductor from Muon-Spin-Relaxation Measurements",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "17",
+    "filename": "JPSJ - Fujiyama - Anomalous metallic spin excitation in LSCO by Cu NQR - 1997.pdf",
+    "material": "LSCO",
+    "pages": 6,
+    "sha256": "f4e8a3de979b03e7377f90dbb96f9b1adde95151220ab5c44c5025e9ff3aefb3",
+    "author": "Fujiyama",
+    "year": "1997",
+    "catalog_hash_matches": true,
+    "title": "Anomalous Spin Excitation in the Metallic State of La2-xSrxCuO4 Observed by Cu NQR",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "Complete scanned source read visually at full page size, including main equations and figures",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "16",
+    "filename": "JPSJ - Itoh - A-site and B-site Cu relaxation in LSCO0.20 - 1996.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "286392e3c43a1c4c7465fe44913c31ecce409ce771a81cee300ee55a35096b3d",
+    "author": "Itoh",
+    "year": "1996",
+    "catalog_hash_matches": true,
+    "title": "Cu Nuclear Spin-Lattice Relaxation Study of A- and B-Sites in La1.80Sr0.20CuO4 (Tc = 30 K)",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete scanned source read visually at full page size, including main equations and figures",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "18",
+    "filename": "JPSJ - Itoh - Suppression of AF spin fluctuations in LSCO - 1997.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "0cd30522db5f4bedd437d978c00b8d33494654d6613f22d24ae1b417debf0780",
+    "author": "Itoh",
+    "year": "1997",
+    "catalog_hash_matches": true,
+    "title": "Unconventional Suppression of Antiferromagnetic Spin Fluctuation in the High-Tc Cu Oxide La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete scanned source read visually at full page size, including main equations and figures",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "15",
+    "filename": "JPSJ - Ohsugi - Cu NMR and NQR studies of LSCO - 1994.pdf",
+    "material": "LSCO",
+    "pages": 16,
+    "sha256": "1d4f00fdeb8867f78007a310951b2a11a95cae9b1cf8a8cd1b0929ff26b9dbd9",
+    "author": "Ohsugi",
+    "year": "1994",
+    "catalog_hash_matches": true,
+    "title": "Cu NMR and NQR Studies of High-Tc Superconductor La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "method": "Complete scanned source read visually at full page size, including main equations and figures",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "13",
+    "filename": "PhysicaB - Imai - High temperature Cu NQR and NMR in LSCO - 1994.pdf",
+    "material": "LSCO",
+    "pages": 8,
+    "sha256": "5fd2a4a230befca8fbb5e2b42c18be292f8601c83d6e57cde29b5b5fbaa3b4e8",
+    "author": "Imai",
+    "year": "1994",
+    "catalog_hash_matches": true,
+    "title": "High-temperature 63-65Cu NQR and NMR study of the high-temperature superconductor La2-xSrxCuO4",
+    "kind": "review",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "7",
+    "filename": "PhysicaC - Nakamura - Cu NQR and resistivity across LSCO doping - 1989.pdf",
+    "material": "LSCO",
+    "pages": 7,
+    "sha256": "3373e11960560b46d892111d24fa7c4f155ff3f256b0d47927c8f259cea45ff8",
+    "author": "Nakamura",
+    "year": "1989",
+    "catalog_hash_matches": true,
+    "title": "Studies of 63-65Cu-NQR and electrical resistivity for the wide range of x in La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "21",
+    "filename": "PRB - Singer - O NMR of electronic inhomogeneity in LSCO - 2005.pdf",
+    "material": "LSCO",
+    "pages": 9,
+    "sha256": "1dba1db5eaa60be0f8c362f71e2238c4f592d1ef0e8330ad46a8c1195e9470b5",
+    "author": "Singer",
+    "year": "2005",
+    "catalog_hash_matches": true,
+    "title": "17O NMR study of the inhomogeneous electronic state in La2-xSrxCuO4 crystals",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "12",
+    "filename": "PRL - Imai - Low frequency spin dynamics in undoped and Sr-doped La2CuO4 - 1993.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "0889e110e117318c4f0c6a8397feec95a558a8030a92de683ac38cee4d96b647",
+    "author": "Imai",
+    "year": "1993",
+    "catalog_hash_matches": true,
+    "title": "Low Frequency Spin Dynamics in Undoped and Sr-Doped La2CuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete scanned source read visually at full page size, including main equations and figures",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "29",
+    "filename": "PRB - Imai - Cu NMR evidence for charge order in LSCO0.115 - 2017.pdf",
+    "material": "LSCO",
+    "pages": 13,
+    "sha256": "ad098ad6be180784fb0491c9745036aa376f98af1525b7c5f36f8c0dc3f41933",
+    "author": "Imai",
+    "year": "2017",
+    "catalog_hash_matches": true,
+    "title": "Revisiting 63Cu NMR evidence for charge order in superconducting La1.885Sr0.115CuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "207",
+    "filename": "PRB - Yamada - Doping dependence of spin correlations and Tc in LSCO - 1998.pdf",
+    "material": "LSCO",
+    "pages": 8,
+    "sha256": "bfeed65d9606bb8a5a046dff657a406eab0b7cc3217cacc7a5722fdceeaa4fe6",
+    "author": "Yamada",
+    "year": "1998",
+    "catalog_hash_matches": true,
+    "title": "Doping dependence of the spatially modulated dynamical spin correlations and the superconducting-transition temperature in La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "19",
+    "filename": "PRL - Hunt - Cu NQR stripe order parameter in LSCO - 1999.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "d5de7d00be21c14b8406319bf5ec2dac829bc0117d6e73ee90d62e1b60ed8a03",
+    "author": "Hunt",
+    "year": "1999",
+    "catalog_hash_matches": true,
+    "title": "63Cu NQR Measurement of Stripe Order Parameter in La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "11",
+    "filename": "PRL - Takagi - Superconductivity and structural boundary in overdoped LSCO - 1992.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "f359e69c57193c201986eb58b178bf960cff8c7ef15dcbb9ec57266e02b74172",
+    "author": "Takagi",
+    "year": "1992",
+    "catalog_hash_matches": true,
+    "title": "Disappearance of superconductivity in overdoped La2-xSrxCuO4 at a structural phase boundary",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "281",
+    "filename": "JPSJ - Momono - Condensation energy and pseudogap in LSCO - 2002.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "3dd4c2361ee684e37e3fd8d1bed582c2739e16ab02e6a1ccd4569307d8b96c89",
+    "author": "Momono",
+    "year": "2002",
+    "catalog_hash_matches": true,
+    "title": "Superconducting Condensation Energy and Pseudogap Formation in La2-xSrxCuO4 - New Energy scale for Superconductivity",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "14",
+    "filename": "PhysicaC - Momono - Specific heat and d-wave pairing in LSCO and Zn-LSCO - 1994.pdf",
+    "material": "LSCO",
+    "pages": 7,
+    "sha256": "2e594a06b57bc0da12d0839f9c9194d5eab784b129260c6003e5234031b3d25d",
+    "author": "Momono",
+    "year": "1994",
+    "catalog_hash_matches": true,
+    "title": "Low-temperature electronic specific heat of La2-xSrxCuO4 and La2-xSrxCu1-yZnyO4 - Evidence for a d wave superconductor",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "32",
+    "filename": "PNAS - Zhong - Lifshitz transition thermodynamics and superconductivity in LSCO - 2022.pdf",
+    "material": "LSCO",
+    "pages": 7,
+    "sha256": "584fa9a3d505090c733b23282b1b43fb369be1b4ab3dc2c7d9efaa1c40590045",
+    "author": "Zhong",
+    "year": "2022",
+    "catalog_hash_matches": true,
+    "title": "Differentiated roles of Lifshitz transition on thermodynamics and superconductivity in La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "The online SI Appendix, raw repository data and cited external papers were not included in the supplied seven-page PDF and were not independently read."
+    }
+  },
+  {
+    "id": "331",
+    "filename": "PRB - Nakano - Magnetism and electronic conduction in LSCO - 1994.pdf",
+    "material": "LSCO",
+    "pages": 9,
+    "sha256": "362bc4d673427251c5007d0685bdde816b06f68ad0a6b4dafe0609b214e7daf9",
+    "author": "Nakano",
+    "year": "1994",
+    "catalog_hash_matches": true,
+    "title": "Magnetic properties and electronic conduction of superconducting La2−xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "method": "All nine supplied pages read, including complete body through page 8 and reference structure on page 9; all nine rendered pages inspected in contact sheets. Scaling, Curie decomposition, shift assumptions and transport comparison on pages 4–5 checked at full size.",
+      "unreviewed": "Cited high-temperature susceptibility, Knight shifts, neutron spectra and specific-heat studies are not independently re-read or regenerated."
+    }
+  },
+  {
+    "id": "203",
+    "filename": "PRB - Takagi - Superconductor-to-metal transition in LSCO - 1989.pdf",
+    "material": "LSCO",
+    "pages": 8,
+    "sha256": "fbe89a4854b0d1ba695f23671f405bf7ae07f9000fb7e8ad04572e76c1786a91",
+    "author": "Takagi",
+    "year": "1989",
+    "catalog_hash_matches": true,
+    "title": "Superconductor-to-nonsuperconductor transition in (La1−xSrx)2CuO4 as investigated by transport and magnetic measurements",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
+    }
+  },
+  {
+    "id": "330",
+    "filename": "PRL - Johnston - Magnetic susceptibility scaling in LSCO - 1989.pdf",
+    "material": "LSCO",
+    "pages": 4,
+    "sha256": "880986e39847df8c8419eb0ffd46126f35cde1bb964fcbe0dba7d35b8fefd139",
+    "author": "Johnston",
+    "year": "1989",
+    "catalog_hash_matches": true,
+    "title": "Magnetic Susceptibility Scaling in La2−xSrxCuO4−y",
+    "kind": "data analysis",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "All four supplied pages read, including final conclusion; all four rendered pages inspected in a contact sheet, with Table I, normalized scaling and effective-J/moment discussion on pages 2–3 checked at full size.",
+      "unreviewed": "References, previously measured sample data, thermodynamic comparisons and theoretical calculations are not independently re-read or regenerated."
+    }
+  },
+  {
+    "id": "209",
+    "filename": "Science - Cooper - Anomalous criticality in LSCO electrical resistivity - 2009.pdf",
+    "material": "LSCO",
+    "pages": 5,
+    "sha256": "cb7d0a3c2065adf810e21548b7b0c5b2b690db19addb217a6f65893bc78597d9",
+    "author": "Cooper",
+    "year": "2009",
+    "catalog_hash_matches": true,
+    "title": "Anomalous Criticality in the Electrical Resistivity of La2-xSrxCuO4",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete supplied substantive text read; selected main figure and equation pages rendered and visually checked",
+      "unreviewed": "Main LSCO article body read completely; final references on page 5 checked. Online SOM is absent. The adjacent incomplete nanotwinned-copper article is intentionally outside this lesson."
+    }
+  },
+  {
+    "id": "295",
+    "filename": "PhysToday - Goodge - Nickelates and high temperature superconductivity - 2025.pdf",
+    "material": "Nickelates",
+    "pages": 7,
+    "sha256": "b09ebac80c5d9134d961f9bc2311b91ab6c2e8fdbd5c792212baab928f16a14a",
+    "author": "Goodge",
+    "year": "2025",
+    "catalog_hash_matches": true,
+    "title": "Nickelates provide answers about high-temperature superconductivity — and raise new questions",
+    "kind": "review",
+    "coverage": {
+      "body_pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "Full text on all seven pages read; opening cover/photo/title pages and all figures inspected in rendered sheets; sparse opening extraction is explained by layout.",
+      "unreviewed": "The review's cited primary studies not independently re-read."
+    }
+  },
+  {
+    "id": "44",
+    "filename": "PRL - Kageyama - Dimer ground state and magnetization plateaus in SrCu2(BO3)2 - 1999.pdf",
+    "material": "SrCu2(BO3)2",
+    "pages": 4,
+    "sha256": "7156b098ac1b1ee3c4acbda4307cd51e90b45f6c7f878c575adea92a9d35444f",
+    "author": "Kageyama",
+    "year": "1999",
+    "catalog_hash_matches": true,
+    "title": "Exact Dimer Ground State and Quantized Magnetization Plateaus in the Two-Dimensional Spin System SrCu2(BO3)2",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "All four pages read in extracted text; rendered crystal topology, relaxation and magnetization figures on pages 1–3 checked.",
+      "unreviewed": "Cited theoretical proofs and later phase-diagram studies not independently reviewed."
+    }
+  },
+  {
+    "id": "343",
+    "filename": "PhysicaC - Itoh - Host and guest spin dynamics in impurity-doped Y124 - 2001.pdf",
+    "material": "YBa2Cu4O8_Y124",
+    "pages": 5,
+    "sha256": "ef6b8b700b69eeba9145176cd63f5c97d54c38b67ca986d6c99c465cee3b42e5",
+    "author": "Itoh",
+    "year": "2001",
+    "catalog_hash_matches": true,
+    "title": "Cu NQR study of host and guest spin dynamics in impurity-doped YBa2Cu4O8",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "method": "All five pages read using decoded /C-number extraction; rendered pages 1–4 inspected, equations and definitions checked at full size on pages 2–3 and conclusion on page 5 read visually.",
+      "unreviewed": "Referenced scattering calculations, impurity-relaxation derivations and comparison experiments not independently re-read."
+    }
+  },
+  {
+    "id": "30",
+    "filename": "NatPhys - Sato - Nematic transition at pseudogap onset in YBCO - 2017.pdf",
+    "material": "YBCO",
+    "pages": 6,
+    "sha256": "61856c718e5af576bb4b475cb7a0a659492fc6575e9bc29ff1b4f0df4cfd377d",
+    "author": "Sato",
+    "year": "2017",
+    "catalog_hash_matches": true,
+    "title": "Thermodynamic evidence for a nematic phase transition at the onset of the pseudogap in YBa₂Cu₃Oᵧ",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "method": "Complete six-page PDF text read including Methods on page 6; rendered pages 2–4 inspected for geometry, onsets, normalization and extrapolation.",
+      "unreviewed": "Separately referenced Supplementary Information/figures are absent from the supplied PDF; cited external probes are not independently reviewed."
+    }
+  },
+  {
+    "id": "10",
+    "filename": "PRB - Takigawa - Cu and O NMR magnetic properties of YBCO6.63 - 1991.pdf",
+    "material": "YBCO",
+    "pages": 11,
+    "sha256": "ea8a1c2a13983b651fa6baa7c1126caa55de550969779a5967f99fe04224d439",
+    "author": "Takigawa",
+    "year": "1991",
+    "catalog_hash_matches": true,
+    "title": "Cu and O NMR studies of the magnetic properties of YBa₂Cu₃O₆.₆₃ (Tᶜ = 62 K)",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "method": "All eleven scanned PDF pages read visually at full page resolution, including spectra, equations, recovery plots and model discussion.",
+      "unreviewed": "Cited external studies are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "208",
+    "filename": "PRL - Singer - Cu NQR and Y NMR across the YCaBCO insulator boundary - 2002.pdf",
+    "material": "YBCO",
+    "pages": 4,
+    "sha256": "ebf81531f2c380d592763dc8e0d4c334f612a78c6a89c34ba906e5504adcb420",
+    "author": "Singer",
+    "year": "2002",
+    "catalog_hash_matches": true,
+    "title": "Systematic ⁶³Cu NQR and ⁸⁹Y NMR Study of Spin Dynamics in Y1-zCazBa₂Cu₃Oᵧ across the Superconductor-Insulator Boundary",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "Complete four-page PDF text read; rendered pages 1–3 inspected for all figures, rate equations and control-variable paths.",
+      "unreviewed": "Referenced external μSR and LSCO measurements are not independently re-read; no separate supplement supplied."
+    }
+  },
+  {
+    "id": "46",
+    "filename": "Nature - Fava - Magnetic field expulsion in optically driven YBCO - 2024.pdf",
+    "material": "YBCO",
+    "pages": 18,
+    "sha256": "de1db521238a84eda82970b70a6c770a28acb53980cab40e60a7cc203307fcd0",
+    "author": "Fava",
+    "year": "2024",
+    "catalog_hash_matches": true,
+    "title": "Magnetic field expulsion in optically driven YBa₂Cu₃O₆.₄₈",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "method": "Complete 18-page PDF read, including Methods on pages 7–8 and all nine Extended Data figures/captions on pages 10–18; rendered main figures on pages 2–4 and every Extended Data page inspected.",
+      "unreviewed": "The separate Supplementary Information file and external optical source datasets are not supplied and were not independently reviewed."
+    }
+  },
+  {
+    "id": "339",
+    "filename": "PRL - Ishida - Spin fluctuations near the YbRh2Si2 QCP - 2002.pdf",
+    "material": "YbRh2Si2_Heavy_Fermions",
+    "pages": 4,
+    "sha256": "bdd1dcef97fca6d9294512e928fd0577a1224ff7428fb4341773daa04fb7571c",
+    "author": "Ishida",
+    "year": "2002",
+    "catalog_hash_matches": true,
+    "title": "YbRh2Si2: Spin Fluctuations in the Vicinity of a Quantum Critical Point at Low Magnetic Field",
+    "kind": "experiment",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "method": "All four pages read; rendered shift, relaxation, field diagram and final interpretation on pages 2–4 checked.",
+      "unreviewed": "Cited bulk measurements and theories not independently re-read."
+    }
+  }
+]
