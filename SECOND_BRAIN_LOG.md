@@ -65,3 +65,11 @@ Reviewed all fifty-two rendered frames for scientific meaning and diagram readab
 Local checks pass for thirteen complete lesson flows, keyboard/dialog controls, prediction/retry, preserved unrelated storage, mobile/tablet/desktop widths, no-script access, dark views, CSS enlargement and reduced-motion emulation. Corrected enlargement overflow and misleading draft diagram details during review. All 439 local links and thirteen original hashes pass. Existing study controls and detailed reading remain available. Detailed private authoring/test evidence stays outside this repository.
 
 State at this entry: ready for the authorized Pages update; hosted verification and archival will be appended. This is a design for visual understanding and active recall, not a measured human learning-speed result.
+
+### Live acceptance and completed state
+
+Visual-overhaul commit 96dde402ef1a7c6044022bf90b57ff0fda2663ad received a successful Pages build. Direct hosted use passed all thirteen lesson flows/fifty-two frames, keyboard stepping, enlargement, incorrect/correct feedback, retries, cross-chapter browser-local checks, topic/unchecked filters and the storage-unavailable fallback. Existing chapter controls remain functional.
+
+All eight pages, seven shared style/script files, two inventories and fourteen source figures match prepared bytes; all thirteen complete PDF downloads match the original hashes. Mobile/tablet/desktop widths, dark views and no-script access pass without page errors or failed responses. CSS zoom/reduced-motion emulation are reported accurately. Viewed final live revised diagrams and mobile lessons. A timed human learning study is not claimed.
+
+Merged the completed visual design, scientific corrections, preferences and source companion links into existing Second Brain records, then fetched them to verify the updates and preserved history/children. Current status: full seven-topic/thirteen-paper visual overhaul, publication and durable archival completed. Start at https://manilaladarsh-hash.github.io/Papers/#visual-path. This documentation-only follow-up preserves the verified website and source bytes.
