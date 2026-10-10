@@ -1,0 +1,56 @@
+[
+  {
+    "id": "25",
+    "title": "Nematic Fermi Fluids in Condensed Matter Physics",
+    "author": "Fradkin",
+    "year": "2010",
+    "filename": "AnnuRevCMP - Fradkin - Nematic Fermi fluids - 2010.pdf",
+    "pages": 26,
+    "sha256": "839d63d33949166f2e9991782357bbbb36009849336f24f4e46ced608b0f1c54"
+  },
+  {
+    "id": "35",
+    "title": "Electronic Liquid Crystal Phases of a Doped Mott Insulator",
+    "author": "Kivelson",
+    "year": "1997",
+    "filename": "arXiv - Kivelson - Electronic liquid crystal phases of a doped Mott insulator - 1997.pdf",
+    "pages": 5,
+    "sha256": "70e204b4b6e20b9e4affa20166ae201a518af4ecc906a9de47d13fc0504c3585"
+  },
+  {
+    "id": "1",
+    "title": "Quantum Theory of a Nematic Fermi Fluid",
+    "author": "Oganesyan",
+    "year": "2001",
+    "filename": "arXiv - Oganesyan - Quantum theory of a nematic Fermi fluid - 2001.pdf",
+    "pages": 7,
+    "sha256": "65252bcb863c2f72d94d91ce8f08afc1517204819d2fe4df5417378923b2effe"
+  },
+  {
+    "id": "296",
+    "title": "Quenched disorder and vestigial nematicity in the pseudogap regime of the cuprates",
+    "author": "Nie",
+    "year": "2014",
+    "filename": "PNAS - Nie - Quenched disorder and vestigial nematicity in cuprates - 2014.pdf",
+    "pages": 6,
+    "sha256": "1bf13d5544e0ffe7fd779b2bc852aaf5f9b35ba4f5b7450f1762237b7428de90"
+  },
+  {
+    "id": "3",
+    "title": "Quasi-one-dimensional dynamics and nematic phases in the two-dimensional Emery model",
+    "author": "Kivelson",
+    "year": "2004",
+    "filename": "PRB - Kivelson - Nematic phases in the Emery model - 2004.pdf",
+    "pages": 7,
+    "sha256": "e4599a7d4dec4d815a4689e62df283c7160883cd7838ad2e65965da729296663"
+  },
+  {
+    "id": "22",
+    "title": "Hysteresis and Noise from Electronic Nematicity in High-Temperature Superconductors",
+    "author": "Carlson",
+    "year": "2006",
+    "filename": "PRL - Carlson - Hysteresis and noise from electronic nematicity - 2006.pdf",
+    "pages": 4,
+    "sha256": "5cdb5e07deb1d4da6fdc111f1d22d9e66a440ed8ef49af58f8f23351b97a1f1e"
+  }
+]
