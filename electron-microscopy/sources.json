@@ -1,0 +1,53 @@
+[
+  {
+    "id": "39",
+    "filename": "ComposB - Bee - Electron irradiation of montmorillonite-PVA composites - 2014.pdf",
+    "pages": 13,
+    "sha256": "ab0698b0601d006bddddfd0baf25f3b45d773acf6da0718c475c7a3c7fc7c752",
+    "author": "Bee",
+    "year": "2014",
+    "title": "Effects of electron beam irradiation on mechanical properties and nanostructural–morphology of montmorillonite added polyvinyl alcohol composite",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "method": "All substantive extracted body text read; original equations, tables and microscopy pages visually checked.",
+      "unreviewed": "Bibliography on pages 12–13 inspected for structure; cited works were not independently reviewed."
+    },
+    "original_pdf_download": true
+  },
+  {
+    "id": "266",
+    "filename": "Microscopy - Hashimoto - Damage-less SEM observation of polymers - 2021.pdf",
+    "pages": 7,
+    "sha256": "6b025626c8a6cff747416813ebac94fbcf2e1e73abed5a8308e4c2083dd16c67",
+    "author": "Hashimoto",
+    "year": "2021",
+    "title": "Damage-less observation of polymers by electron dose control in scanning electron microscope",
+    "coverage": {
+      "body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "All seven pages of extracted body text read; original dose/correlation definitions, threshold plots, micrographs and nested-exponent equation visually checked.",
+      "unreviewed": "References inspected for structure; cited works not independently reviewed."
+    },
+    "original_pdf_download": true
+  }
+]
