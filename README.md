@@ -1,39 +1,31 @@
-# Cuprate reading library
+# Research Reading Library
 
-**[Open the reading library](https://manilaladarsh-hash.github.io/Papers/)**
+**[Open the complete library](https://manilaladarsh-hash.github.io/Papers/)**
 
-Seven connected topics, thirteen original papers and detailed visual study notes: cuprate reviews, pairing and superconductivity, pseudogap and thermodynamics, stripes and charge order, electronic nematicity, quantum criticality, and spinless impurities/Kondo-like physics.
+One detailed visual website for the supplied literature collection: **Materials**, **Theory & Topics**, **Methods**, and **Theses**, with folder-based subsections. Search all **105 paper and thesis chapter guides** from the same catalog, or follow a material, physical idea, or measurement through connected sources.
 
-Start with **Cuprate reviews** for the map, then follow the reading path. Search or filter the full paper catalog. Each topic links to original PDFs, explains the arguments and assumptions, and separates historical conclusions from interpretation. The seven added papers include essential equations, symbol explanations, figure-reading prompts and self-check questions with answers. The original six nematicity notes include additional argument walkthroughs.
+Each guide explains the research question in everyday language, builds the mechanism through an illustrated story, and follows the detailed argument. Main results are paired with their evidence and limitations. Guided original-page images explain what to look for, how to read the axes or comparison, what follows, and where the inference stops. Essential equations include symbol meanings and assumptions. Definitions and answered recall questions support deeper reading.
 
-**Start learning visually:** every paper now has a four-picture story with one clear takeaway per picture, source-page links and a prediction question with explanatory feedback. Fifty-two teaching pictures cover all thirteen papers. Step forward/back, jump between pictures or enlarge a diagram. The visual path filters by topic or unchecked recall. Optional recall checks stay in your browser; they are a reading aid, not a claim of mastery.
-
-The magnetic-probe explorer lets you change the nuclear coupling and move a teaching spin-response peak, exposing the difference between host fluctuations and the weighted signal. Its two-site geometry, one-dimensional cut and area ratio are explicitly teaching assumptions. Detailed arguments, essential equations, author figures and complete source PDFs remain available after the visual lesson.
-
-Interactive views are labeled simplified teaching models; they do not reproduce measured data or the papers' numerical simulations. Attributed figure excerpts link to their complete source pages. Website branding contains no personal name.
-
-## Reading online or offline
-
-Bookmark the link above. No login is needed. For offline use, download this repository as a ZIP, extract it and open `index.html`. Keep the PDFs, `topics`, `assets`, styles, scripts and `evidence` beside it. No installation or server is needed. Original PDF filenames and bytes are preserved.
+Enlarge a teaching diagram or original source page, move between pictures with the keyboard, or show every picture together. Three interactive examples explain nuclear form factors, the forward recovery of a two-rate mixture, and accumulated irradiation dose. These are explicitly bounded teaching calculations; they do not fit the experiments or solve an inverse problem. Schematics remain distinguished from author figures and measurements.
 
 ## Sources and coverage
 
-The thirteen supplied files total 107 pages. All substantive body sections were reviewed, including visually reading the scanned Moriya paper. Bibliographies were inspected for structure; every cited work was not independently reviewed. Nie's external Supporting Information is absent and remains unreviewed. These notes explain the supplied historical versions and do not constitute an updated literature survey.
+The supplied collection contains **67 PDFs representing 66 distinct works and 1,110 file pages**. The two Furukawa encodings are versions of the same visible study. Four theses add **38 chapter units** alongside their source overviews. Coverage, historical source versions, page references, source SHA-256 hashes, and individual scientific limits are recorded in each guide and `unified/sources.json`.
 
-- **Cuprates:** Keimer et al. (2015).
-- **Pairing:** Monthoux, Pines and Lonzarich (2007); Moriya, Takahashi and Ueda (1990).
-- **Pseudogap:** Loram et al. (1998).
-- **Stripes:** Robertson et al., supplied 2006 preprint v2.
-- **Nematicity:** Kivelson–Fradkin–Emery (stored 1997 preprint), Oganesyan–Kivelson–Fradkin (2001 v2), Kivelson–Fradkin–Geballe (2004), Carlson et al. (2006), Fradkin et al. (2010), Nie–Tarjus–Kivelson (2014).
-- **Criticality:** Sachdev and Keimer (2011).
-- **Impurities:** Bobroff et al. (1999).
+The notes explain the supplied sources and their main arguments. They do not constitute a current literature survey or independent experimental replication. Referenced works and missing external supplements were not silently treated as reviewed sources. Scan/OCR ambiguities, convention differences, and identified source mistakes remain explicit.
 
-Source versions, page coverage and scientific limits appear in the notes and `evidence/coverage.json`. `evidence/sources.json` records source metadata and original SHA-256 hashes. The papers and author figures remain the work of their authors and publishers; this repository does not relicense them.
+Unpublished manuscripts are excluded. Website branding is neutral. All 67 original PDFs are published with their canonical filenames and exact bytes, including the complete spin-liquid thesis under `spin-liquid-theses/pdfs/`, which is posted unchanged. Source papers and author figures remain the work of their authors and publishers and are not relicensed by these notes.
+
+## Reading and recall
+
+Start with a plain-language explanation and its picture sequence, then read the detailed argument and original figures. The common Concepts page keeps definitions attached to their source context. Recall records stay in the browser and indicate an attempted check, not demonstrated mastery. The unified site imports valid records from the earlier reading rooms once, preserves the original stores, and respects a reset. Reading remains usable when browser storage is unavailable.
+
+No login, runtime API, external script, or backend is needed. Full explanations remain visible; with JavaScript disabled, all pictures and native expandable answers are available. Layouts support narrow screens, with horizontal panning inside large diagrams rather than across the entire page. Print styles expose the complete picture sequence. PDF page-fragment behavior depends on the viewer.
+
+For downloaded reading, extract the repository ZIP and open `index.html`, preserving the folder structure. All 67 intact originals are included in the repository.
 
 ## Hosting and maintenance
 
-GitHub Pages serves the `main` branch root with `.nojekyll`. The root page is the catalog and reading path; seven `topics/*/index.html` pages contain the study material. Shared `library.css` and `library.js` handle the expanded library. The nematicity chapter retains its original `styles.css` and `app.js`, plus `nematicity-deep.css`. Previous root links such as `#paper-35` redirect to the corresponding nematicity note.
+GitHub Pages serves `main` at the repository root with `.nojekyll`. Canonical routes use `papers/<source-id>/`, thesis `chapters/<slug>/`, `sections/<section>/<subsection>/`, and `concepts/`. Shared CSS, JavaScript, source metadata, and original-page images live under `unified/`. Earlier topic and reading-room routes are retained so existing bookmarks and source links continue to work.
 
-Shared `visual.css` and `visual.js` handle the thirteen lesson steppers, prediction feedback, accessible enlargement dialogs, topic/recall filters, optional local progress and probe explorer. Script-disabled readers can see every picture and reveal answers through native expandable sections. The new local recall key is separate from other browser data and handles unavailable storage gracefully. No runtime service or API is required.
-
-All source links are relative for hosted and extracted-folder reading. PDF `#page=` handling depends on the viewer. The local authoring sources and detailed private test evidence are maintained separately. Rebuild through the expanded library builder; the old single-topic publisher refuses to overwrite a multi-topic publication.
+Private source-authoring JSON, scientific review records, PDF render checks, validation manifests, and browser test evidence are maintained outside the public package. Maintenance checks source preservation, guide-generation freshness, relative links, anonymous branding, reading interactions, responsive layouts, and deployed bytes separately. Project history is recorded in `SECOND_BRAIN_LOG.md`.
