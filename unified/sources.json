@@ -25,7 +25,8 @@
       "unreviewed": "Referenced works not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "1bf63bdf2ffb00b43d2f0785c7091117a131e4214c0fa5f6d0f9c2a70628e096"
+    "guide_content_sha256": "1bf63bdf2ffb00b43d2f0785c7091117a131e4214c0fa5f6d0f9c2a70628e096",
+    "visual_spec_sha256": "43f37ac582a7f9143e8fdf7475165301cdd1fbf46b9f7a2c44bff84c2169e0f7"
   },
   {
     "id": "43",
@@ -59,7 +60,8 @@
       "unreviewed": "Cited manuscript-in-preparation and other references not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "81ac8a7e1f5290a86fa1696ad66e86a94e06c858dfcb7658c3c6634833d67865"
+    "guide_content_sha256": "81ac8a7e1f5290a86fa1696ad66e86a94e06c858dfcb7658c3c6634833d67865",
+    "visual_spec_sha256": "57720432d3902550c0f669357f5afb22bbb03d98b4396fcc22e143eb6574e86b"
   },
   {
     "id": "297",
@@ -90,7 +92,8 @@
       "unreviewed": "Reference list inspected; cited works not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "6824e0008d7d1164bbba074ed822e2f9a6e8d329f5493a97bf73e77d9b20df42"
+    "guide_content_sha256": "6824e0008d7d1164bbba074ed822e2f9a6e8d329f5493a97bf73e77d9b20df42",
+    "visual_spec_sha256": "d959725722098f428174e27709033cc71c527f9f9d81096e28256f3264d45640"
   },
   {
     "id": "337",
@@ -116,7 +119,8 @@
       "unreviewed": "The separately referenced Supplemental Material and external data are not supplied in this PDF and were not reviewed; references are not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "2f50154bae04307880749afd7028411f58a4553536c85c0fbd8864e421a2473d"
+    "guide_content_sha256": "2f50154bae04307880749afd7028411f58a4553536c85c0fbd8864e421a2473d",
+    "visual_spec_sha256": "218d94641e0647fa5c76021ddfc1c747ae144060a9a4fd209ef4f50fe303ed8e"
   },
   {
     "id": "38",
@@ -150,7 +154,8 @@
       "unreviewed": "External cited papers are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "a58fded501bb40f10136354847d43c8de29f6a4430e9e43011188bedeba20325"
+    "guide_content_sha256": "a58fded501bb40f10136354847d43c8de29f6a4430e9e43011188bedeba20325",
+    "visual_spec_sha256": "63498d7fa8aae170926caa81f4437f32d4e659d65d233b1d299982e0aecd66a5"
   },
   {
     "id": "41",
@@ -174,7 +179,8 @@
       "unreviewed": "References are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "e0717a914db1e6cf66aff9ff8716605e7f238c01ea28a4e3270695abdcfaab36"
+    "guide_content_sha256": "e0717a914db1e6cf66aff9ff8716605e7f238c01ea28a4e3270695abdcfaab36",
+    "visual_spec_sha256": "2d902e8a60c7b4dd6ea4c4d4c5c9f91e498f8ba56d93fd4b7bd609f1b6a88fc3"
   },
   {
     "id": "24",
@@ -199,7 +205,8 @@
       "unreviewed": "Cited experiments and references not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "3917843216dced0d1e92a0b0d7b38a0c8b6a483c079c65cc468613efed93da54"
+    "guide_content_sha256": "3917843216dced0d1e92a0b0d7b38a0c8b6a483c079c65cc468613efed93da54",
+    "visual_spec_sha256": "2d964e6c8477981f2f58f8cd676ed82998ec8e08047d3b62f20625c947454061"
   },
   {
     "id": "338",
@@ -227,7 +234,8 @@
       "unreviewed": "Cited works not independently re-read; hidden PDF metadata differences are not scientifically interpreted."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "0f39b6a5e735ddb1128e79f914dc99a8432d3557fd4c7be9be347a3ed682ad2a"
+    "guide_content_sha256": "0f39b6a5e735ddb1128e79f914dc99a8432d3557fd4c7be9be347a3ed682ad2a",
+    "visual_spec_sha256": "162667101d27673e0e2933caa3d4c27bb8889c6acc1c267716a270dd0ef88984"
   },
   {
     "id": "45",
@@ -255,7 +263,8 @@
       "unreviewed": "Cited works not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "ce26b909e50e1b884cfef351428a66451dd29e2f6567caac5fae0bbcdd603ff9"
+    "guide_content_sha256": "ce26b909e50e1b884cfef351428a66451dd29e2f6567caac5fae0bbcdd603ff9",
+    "visual_spec_sha256": "c6f2d54b707a6a0b026f05a9cda24d12463d096125d2ee87babf930d0bd174e0"
   },
   {
     "id": "341",
@@ -279,7 +288,8 @@
       "unreviewed": "Cited works not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "d8e2af294e808c071ed4cd3c929158358a7a230a6844a39beda418126d71fde9"
+    "guide_content_sha256": "d8e2af294e808c071ed4cd3c929158358a7a230a6844a39beda418126d71fde9",
+    "visual_spec_sha256": "0af8e13723f3624f3ae793d093b621235b8547a541d8c3ba9991e06c64b2d04a"
   },
   {
     "id": "20",
@@ -301,7 +311,8 @@
       "unreviewed": "References not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "eac2470804d6d925d2f442cefe4a67bf78a8eb40d2b3e4031cbb0d8aa8302215"
+    "guide_content_sha256": "eac2470804d6d925d2f442cefe4a67bf78a8eb40d2b3e4031cbb0d8aa8302215",
+    "visual_spec_sha256": "4e04c7d0e74881b1c3f93780f9dbae47dd89a9e0016417c79a78d90c20e4e5a4"
   },
   {
     "id": "33",
@@ -331,7 +342,8 @@
       "unreviewed": "External papers summarized in the review are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "f039d50e7831dff1fd59ecbf7af7aa66af1484e7166279ecfb5534de8adb7759"
+    "guide_content_sha256": "f039d50e7831dff1fd59ecbf7af7aa66af1484e7166279ecfb5534de8adb7759",
+    "visual_spec_sha256": "7d9f64a79604982ec6e907c71e1bef8e7d8261771f69be189d57093aeb25723f"
   },
   {
     "id": "4",
@@ -367,7 +379,8 @@
       "unreviewed": "External cited papers and raw datasets are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "9530b4a74195dff34347176382bbc5f707c51bcdceca7116f935f0e6d826226a"
+    "guide_content_sha256": "9530b4a74195dff34347176382bbc5f707c51bcdceca7116f935f0e6d826226a",
+    "visual_spec_sha256": "864b1b36f192b3a1676976c542b014c96c3a476b9201d7c4a4fe2fd6487d5159"
   },
   {
     "id": "36",
@@ -391,7 +404,8 @@
       "unreviewed": "External references are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "a299d89c002ea9ff1cba1f91738437393c188df1eb26669e62721219f7c7ba30"
+    "guide_content_sha256": "a299d89c002ea9ff1cba1f91738437393c188df1eb26669e62721219f7c7ba30",
+    "visual_spec_sha256": "f1ad16d190242e4b61bb8f6608592cf3f61ae118c46c840b8d40dcdc465e203b"
   },
   {
     "id": "272",
@@ -417,7 +431,8 @@
       "unreviewed": "References are not independently re-read; no separate supplementary file supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "8383b884bce67ecdc14df3866c003bfe9334a44117814f1c9946d150d872af72"
+    "guide_content_sha256": "8383b884bce67ecdc14df3866c003bfe9334a44117814f1c9946d150d872af72",
+    "visual_spec_sha256": "d55e029b973cf63166fbd76cf0053039a52ebb58cd66532129d736b78cbbcc69"
   },
   {
     "id": "273",
@@ -441,7 +456,8 @@
       "unreviewed": "References are not independently re-read; no separate supplementary file supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "b1e20516517b13c3cebc117621e4854a6d6f2f4ff70d628dfda6c4b98b2fb760"
+    "guide_content_sha256": "b1e20516517b13c3cebc117621e4854a6d6f2f4ff70d628dfda6c4b98b2fb760",
+    "visual_spec_sha256": "6cf82b78596b61f6066646e5ea62433c9000fd4cbccaba74fdbef004a44a2acf"
   },
   {
     "id": "282",
@@ -465,7 +481,8 @@
       "unreviewed": "Reference-only page 5 inspected; referenced papers not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "9d88523b70647a588e604199ba13deda64677d150177d10ed536b0c00acf3cf0"
+    "guide_content_sha256": "9d88523b70647a588e604199ba13deda64677d150177d10ed536b0c00acf3cf0",
+    "visual_spec_sha256": "bec7f5b0ffbf144855b73180b4675113377b7c0d8414dc80bf696365be977d79"
   },
   {
     "id": "31",
@@ -488,7 +505,8 @@
       "unreviewed": "External supplementary methods/text/Figs.S1–S12 and their references are not supplied; cited works not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "96f0b998e43f52f5c8f4ed10f9820783ec6255f09fb57b1d0f5aa786e396f287"
+    "guide_content_sha256": "96f0b998e43f52f5c8f4ed10f9820783ec6255f09fb57b1d0f5aa786e396f287",
+    "visual_spec_sha256": "13bc580b212d32e2a8786d979cea35fe153f9922de16ab1a3e28d204a559c6ee"
   },
   {
     "id": "27",
@@ -512,7 +530,8 @@
       "unreviewed": "References not independently re-read. Online supporting information advertised by the source is absent from the supplied PDF."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "e8e5d1718f7225aac3fbb8c8ff3d7757711dda3145f3600e003292be20b0a78a"
+    "guide_content_sha256": "e8e5d1718f7225aac3fbb8c8ff3d7757711dda3145f3600e003292be20b0a78a",
+    "visual_spec_sha256": "400af8664f594896bbeeab7923f4c0ef455e8add5ee43e4e6b675086c2dc369d"
   },
   {
     "id": "26",
@@ -538,7 +557,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "2834d32ef87c0ca8fb33300a21f253ae43f870ff3e5871872882c285d2469b47"
+    "guide_content_sha256": "2834d32ef87c0ca8fb33300a21f253ae43f870ff3e5871872882c285d2469b47",
+    "visual_spec_sha256": "84d2b84419690cbe164b16a76b91b76a2ccd87c265138f89be6f733d68594ba4"
   },
   {
     "id": "23",
@@ -562,7 +582,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "7078ab7911a0c71299e6629d2cc7cf6c6801c1691b2f13da4e88a64ccd54a44f"
+    "guide_content_sha256": "7078ab7911a0c71299e6629d2cc7cf6c6801c1691b2f13da4e88a64ccd54a44f",
+    "visual_spec_sha256": "600b5edf33dbe497e5bf8b756497be7f520fd5874d2762321b6e207082758e9b"
   },
   {
     "id": "17",
@@ -588,7 +609,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "62ce049a236a6987040417efa417c4501224d5e09e0494bb35eb0e6c77d0512f"
+    "guide_content_sha256": "62ce049a236a6987040417efa417c4501224d5e09e0494bb35eb0e6c77d0512f",
+    "visual_spec_sha256": "bcf31490c0ad502def4b8bf2f1b68f771af7d0402068c29e26d7f690e28369bb"
   },
   {
     "id": "16",
@@ -612,7 +634,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "424b93768d0c9692cc08e1f7fe1f0dee70e1e7b035bac1d829bdd7dceaf71c98"
+    "guide_content_sha256": "424b93768d0c9692cc08e1f7fe1f0dee70e1e7b035bac1d829bdd7dceaf71c98",
+    "visual_spec_sha256": "8f14a24c41b60f6d6dea56cb2f0936f396bd82882681b350189e698a9971c264"
   },
   {
     "id": "18",
@@ -636,7 +659,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "3c51c5f303089dff68748549aa99b948a4d528cddad9af14e4046e83cbc93d21"
+    "guide_content_sha256": "3c51c5f303089dff68748549aa99b948a4d528cddad9af14e4046e83cbc93d21",
+    "visual_spec_sha256": "22380f379414294942f74c916fa02301209012710cbaf88e5869e04b5b46644b"
   },
   {
     "id": "15",
@@ -672,7 +696,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "eced7bac6381bac765be4e9581a8baa73981e88df0cff7431df33c2a47294a17"
+    "guide_content_sha256": "eced7bac6381bac765be4e9581a8baa73981e88df0cff7431df33c2a47294a17",
+    "visual_spec_sha256": "d79ee753f93e52e793dc2d555ab68177daecd97ea00e17337baff923fb28cb05"
   },
   {
     "id": "13",
@@ -699,7 +724,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "41985093f33f9b68b015b05185b07f9d19ae36c40a42ac7494ffe9e44627e917"
+    "guide_content_sha256": "41985093f33f9b68b015b05185b07f9d19ae36c40a42ac7494ffe9e44627e917",
+    "visual_spec_sha256": "fcdbc7df9d6d1ef9e6ee4dc0f51d58bf8bc9b7ab984a67e7769761c2e552fa55"
   },
   {
     "id": "7",
@@ -726,7 +752,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "95500916de6c2dd35797a8f43a98759c4b966cfbfa25c9df4726000f1c2754ab"
+    "guide_content_sha256": "95500916de6c2dd35797a8f43a98759c4b966cfbfa25c9df4726000f1c2754ab",
+    "visual_spec_sha256": "56bbcb37e3d22de68fd3ffcf3d2b7ef0f2e8072c3c4c15de6f5a62beb243e97c"
   },
   {
     "id": "21",
@@ -754,7 +781,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "dab6c5a3ecdf69cb343deda1a0d043ac7ebb20b3f7b4054a3da6494ffed661ba"
+    "guide_content_sha256": "dab6c5a3ecdf69cb343deda1a0d043ac7ebb20b3f7b4054a3da6494ffed661ba",
+    "visual_spec_sha256": "a0ddafb7c627c765358839bc0adb7d6d97fd06cc081108082e8a06867335f887"
   },
   {
     "id": "12",
@@ -778,7 +806,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "b8a7aa277fa64437cfa57c67f87a0c3bd37a2f081d49f0ff35d0981644d6aac5"
+    "guide_content_sha256": "b8a7aa277fa64437cfa57c67f87a0c3bd37a2f081d49f0ff35d0981644d6aac5",
+    "visual_spec_sha256": "a9467738b61068f32ca6e19f2e6f793a6a98767c8610558cd536104e8b82dbfb"
   },
   {
     "id": "29",
@@ -810,7 +839,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "1091c1fd261df8d1a63b2d832c10fbe67cbfbcb2401d742faa77879d25cada9f"
+    "guide_content_sha256": "1091c1fd261df8d1a63b2d832c10fbe67cbfbcb2401d742faa77879d25cada9f",
+    "visual_spec_sha256": "6544d5af677963f9cbf1a406fc90d732dbbd6c5f247b6c348a400234c5aa2b10"
   },
   {
     "id": "207",
@@ -837,7 +867,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "54c8f01292e700b7a771102f844de4132d4882aceccc26ae505f32b111282267"
+    "guide_content_sha256": "54c8f01292e700b7a771102f844de4132d4882aceccc26ae505f32b111282267",
+    "visual_spec_sha256": "c3a0d409e123e73a4904a712c2cf90777a102f145cb29df156c75818bbdfa94d"
   },
   {
     "id": "19",
@@ -861,7 +892,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "35437a3efe897e3ad779230132a6ec81059425a58842319ee91929ee8be14c7e"
+    "guide_content_sha256": "35437a3efe897e3ad779230132a6ec81059425a58842319ee91929ee8be14c7e",
+    "visual_spec_sha256": "b94ec191f854529262716fe793e8325a454f354ce167add133ea4a736c01ab18"
   },
   {
     "id": "11",
@@ -885,7 +917,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "6bf4a2ad741ef75538e3e93da6153ce0fc33452b60ab56d0d7309089acebc465"
+    "guide_content_sha256": "6bf4a2ad741ef75538e3e93da6153ce0fc33452b60ab56d0d7309089acebc465",
+    "visual_spec_sha256": "eead5c88210cdae8d1141d2cfe38843996cb7617707c60914afc6cf8e9dd9589"
   },
   {
     "id": "281",
@@ -909,7 +942,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "bf23922419ef0281786c331fa36fbc512a4c47b7938c62ded65ba564de306637"
+    "guide_content_sha256": "bf23922419ef0281786c331fa36fbc512a4c47b7938c62ded65ba564de306637",
+    "visual_spec_sha256": "e4b057f4dfa1fbdb1204f5fa4ef7592d09b6565461eadec8db448e4e31345746"
   },
   {
     "id": "14",
@@ -935,7 +969,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "6bd8c655317fa95e88d806005f6833a3bda39631423f7d064ac8ae955c8bc9d9"
+    "guide_content_sha256": "6bd8c655317fa95e88d806005f6833a3bda39631423f7d064ac8ae955c8bc9d9",
+    "visual_spec_sha256": "aca55755234461d5756627cb083002f3e130e9e781a5fc5c9a3e961e30e0ae17"
   },
   {
     "id": "32",
@@ -961,7 +996,8 @@
       "unreviewed": "The online SI Appendix, raw repository data and cited external papers were not included in the supplied seven-page PDF and were not independently read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "f89bfb99fdd9939bb577f50846aaad57b2653b72d13935a6293ecb3b465fff6d"
+    "guide_content_sha256": "f89bfb99fdd9939bb577f50846aaad57b2653b72d13935a6293ecb3b465fff6d",
+    "visual_spec_sha256": "6111eef9aed0d2d68f8fa157398dac0722b4a0989659492674096a06ebcda249"
   },
   {
     "id": "331",
@@ -989,7 +1025,8 @@
       "unreviewed": "Cited high-temperature susceptibility, Knight shifts, neutron spectra and specific-heat studies are not independently re-read or regenerated."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "4bd39f2561b64ce5e12ead9ca84c23d83f3fbd768ad4b97c6bb3ecd10ace037c"
+    "guide_content_sha256": "4bd39f2561b64ce5e12ead9ca84c23d83f3fbd768ad4b97c6bb3ecd10ace037c",
+    "visual_spec_sha256": "389f371960cd623649ceb755d1ae3e874d28bc6131dd717496c83d73895e8fa4"
   },
   {
     "id": "203",
@@ -1016,7 +1053,8 @@
       "unreviewed": "References checked as a bibliography but cited works were not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "10c6be3cc2d95ea67faa742f32ac199ec28c3610d481c16b1b810c7c04bb7467"
+    "guide_content_sha256": "10c6be3cc2d95ea67faa742f32ac199ec28c3610d481c16b1b810c7c04bb7467",
+    "visual_spec_sha256": "4c1e84723d3a85c2f3c26db27860498753ade8ec91ef15ba7c99bcf4eab3082b"
   },
   {
     "id": "330",
@@ -1040,7 +1078,8 @@
       "unreviewed": "References, previously measured sample data, thermodynamic comparisons and theoretical calculations are not independently re-read or regenerated."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "7c788b3bebffb04bcb27a3b815deb196ac6adcd35f01964e2826fb3eb69fd7c7"
+    "guide_content_sha256": "7c788b3bebffb04bcb27a3b815deb196ac6adcd35f01964e2826fb3eb69fd7c7",
+    "visual_spec_sha256": "3e93cc8b88497df618d79737d0a22711441107bad665bf117d92dbd6ab88c384"
   },
   {
     "id": "209",
@@ -1064,7 +1103,8 @@
       "unreviewed": "Main LSCO article body read completely; final references on page 5 checked. Online SOM is absent. The adjacent incomplete nanotwinned-copper article is intentionally outside this lesson."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "c0f1c9544122bcdba6f16ae4997e5f5e4f0a4d5c3cd2a7ded719debfd044e3e3"
+    "guide_content_sha256": "c0f1c9544122bcdba6f16ae4997e5f5e4f0a4d5c3cd2a7ded719debfd044e3e3",
+    "visual_spec_sha256": "985a06cea08d72ae2799faa0c1826117719eb3df140f3ae9b1aecf07239a97c9"
   },
   {
     "id": "295",
@@ -1089,7 +1129,8 @@
       "unreviewed": "The review's cited primary studies not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "45ab1a38f29fab1d363a68fff91db076422c7b319fd14b30bda44357ab347b82"
+    "guide_content_sha256": "45ab1a38f29fab1d363a68fff91db076422c7b319fd14b30bda44357ab347b82",
+    "visual_spec_sha256": "672c462c8464fa0d6fa3946bb84dbd88a4be2f098dace99b43b88360bfcf0466"
   },
   {
     "id": "44",
@@ -1113,7 +1154,8 @@
       "unreviewed": "Cited theoretical proofs and later phase-diagram studies not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "e706e08b10823ba59d4a2b886e4caf696dd6b7b31819c3e7ddc86f87f9c6a4dc"
+    "guide_content_sha256": "e706e08b10823ba59d4a2b886e4caf696dd6b7b31819c3e7ddc86f87f9c6a4dc",
+    "visual_spec_sha256": "9a4bcfcc5b8198b029d270ad2a42d914ebfd43106218245b43eae8a32b012d8c"
   },
   {
     "id": "343",
@@ -1138,7 +1180,8 @@
       "unreviewed": "Referenced scattering calculations, impurity-relaxation derivations and comparison experiments not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "9737cccd6934662be78eb936bae9ffd97b326c83e344c9dcc4e178cb7a24e71b"
+    "guide_content_sha256": "9737cccd6934662be78eb936bae9ffd97b326c83e344c9dcc4e178cb7a24e71b",
+    "visual_spec_sha256": "bf5d0098c535b4d8082250266ee5e07060d31d7048f47fdf1e1dd1f42581434d"
   },
   {
     "id": "30",
@@ -1164,7 +1207,8 @@
       "unreviewed": "Separately referenced Supplementary Information/figures are absent from the supplied PDF; cited external probes are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "1477d19f83c86c230b954240eac67c46e0a32b5ee358743cb145e2f91824ef69"
+    "guide_content_sha256": "1477d19f83c86c230b954240eac67c46e0a32b5ee358743cb145e2f91824ef69",
+    "visual_spec_sha256": "e756f93608f8aedadfc86089b1b7e4c2d2eb134922e936693b24d1f249078713"
   },
   {
     "id": "10",
@@ -1195,7 +1239,8 @@
       "unreviewed": "Cited external studies are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "3bd1ebc045f9004d697cc1fd76c0370d4faf5bec50dacace3860eb84a4f9b3d9"
+    "guide_content_sha256": "3bd1ebc045f9004d697cc1fd76c0370d4faf5bec50dacace3860eb84a4f9b3d9",
+    "visual_spec_sha256": "8b22a57af961cb62909d0a8292ceaf44f0d07a5e5e873f22dce85e28654a44c9"
   },
   {
     "id": "208",
@@ -1219,7 +1264,8 @@
       "unreviewed": "Referenced external μSR and LSCO measurements are not independently re-read; no separate supplement supplied."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "339090a60475343de157250ea0566dc779a6a2c147ed9185187692fc1a538202"
+    "guide_content_sha256": "339090a60475343de157250ea0566dc779a6a2c147ed9185187692fc1a538202",
+    "visual_spec_sha256": "3ee0ef7d42d5ac9550fa41fb43bdc42214fd64556d3cafa4fc07211dc68c2dbe"
   },
   {
     "id": "46",
@@ -1257,7 +1303,8 @@
       "unreviewed": "The separate Supplementary Information file and external optical source datasets are not supplied and were not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "c6c1e7a02f92a8dbc77f493baa2d0acf35442611b1d3b8c57e23defedfd6972d"
+    "guide_content_sha256": "c6c1e7a02f92a8dbc77f493baa2d0acf35442611b1d3b8c57e23defedfd6972d",
+    "visual_spec_sha256": "1c3b8ca1e229b8b55cbbcbb0e84f402a8b66af3a406f0394124bac0c75792a00"
   },
   {
     "id": "339",
@@ -1281,7 +1328,8 @@
       "unreviewed": "Cited bulk measurements and theories not independently re-read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "dd1f9b5f8071478cce0c1c2e5de79c9aac1c63c3c623e8d90dcdff69172481d8"
+    "guide_content_sha256": "dd1f9b5f8071478cce0c1c2e5de79c9aac1c63c3c623e8d90dcdff69172481d8",
+    "visual_spec_sha256": "98032ae218632477cb9d024aedf23f877b0d40cde12b357dfa3101d0b4569913"
   },
   {
     "id": "39",
@@ -1313,7 +1361,8 @@
       "unreviewed": "Bibliography on pages 12–13 inspected for structure; cited works were not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "15ae32b74e74d07a316b675f3922400219be282ff7e46e8766e4dbb06db80884"
+    "guide_content_sha256": "15ae32b74e74d07a316b675f3922400219be282ff7e46e8766e4dbb06db80884",
+    "visual_spec_sha256": "e861a9337f59e13db53dc7d6ed80de949f12919ca4a41ecc44a5b104df87f6ee"
   },
   {
     "id": "266",
@@ -1340,7 +1389,8 @@
       "unreviewed": "References inspected for structure; cited works not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "fe197cd815c40d90856070bcc55c47f3ee001ecc5d57ee5c8eea65b109ccf604"
+    "guide_content_sha256": "fe197cd815c40d90856070bcc55c47f3ee001ecc5d57ee5c8eea65b109ccf604",
+    "visual_spec_sha256": "fddbc44439a29f7ab605e18169474e958edef2b02de4507125583a16ed23df86"
   },
   {
     "id": "8",
@@ -1487,7 +1537,8 @@
       "unreviewed": "Acknowledgments and biography are not teaching material. Bibliography not independently verified against external publications. Mathematical derivations are summarized at final-result level; not every algebraic line independently reconstructed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "7937aab9258348af7576331aafd3ed1033b23c9a359aed5ae50cf765acbe4947"
+    "guide_content_sha256": "7937aab9258348af7576331aafd3ed1033b23c9a359aed5ae50cf765acbe4947",
+    "visual_spec_sha256": "34baa0542b3572003675f3fb74a2cd79026907b73b02fa65fa6cd9d468636a0c"
   },
   {
     "id": "265",
@@ -1635,7 +1686,8 @@
       "unreviewed": "Bibliography pages 138–144 were not independently verified against every cited publication. Front matter was inspected for title, abstract and chapter mapping. The guide does not claim manual visual reading of every scan or exact transcription of all derivations; OCR is imperfect and the damaged abstract region was checked against the conclusions."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "5de71c28b3fc774c42d352888ba0ceedb3dd7ea84a6e909285e3a760168ebcd2"
+    "guide_content_sha256": "5de71c28b3fc774c42d352888ba0ceedb3dd7ea84a6e909285e3a760168ebcd2",
+    "visual_spec_sha256": "189c095ed12bd9e50015031021293cfb9d38f6ba4c1a210dbaceeb3e2c920686"
   },
   {
     "id": "201",
@@ -1846,7 +1898,8 @@
       "unreviewed": "Bibliography pages 205–212 were not independently verified against the cited external works. The guide explains final results and assumptions rather than reproducing every algebraic step, electronics part number or data point. Remaining rendered pages not listed in the private review were not claimed as visually read."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "08a686fcdb0eb0ad7f9aa5edf3f3d9b99f3fa9222798fee7c30f72cf29bebb4d"
+    "guide_content_sha256": "08a686fcdb0eb0ad7f9aa5edf3f3d9b99f3fa9222798fee7c30f72cf29bebb4d",
+    "visual_spec_sha256": "aad39a07ce4bc78c8c2c0cc983d351ede900be37e51c8c4b275c990897963ce4"
   },
   {
     "id": "34",
@@ -1974,7 +2027,8 @@
       "unreviewed": "Personal acknowledgements omitted from teaching content. Bibliographies and external supplements not independently re-read; only material actually present in the thesis is covered."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "555d8644fd3236878624b74e826123d103062513bf2e09dec00f20e369a5d8bf"
+    "guide_content_sha256": "555d8644fd3236878624b74e826123d103062513bf2e09dec00f20e369a5d8bf",
+    "visual_spec_sha256": "afb95eec2659451f9e10fb81a363ae85b44e4baf334868e421428b2ef1e3d507"
   },
   {
     "id": "28",
@@ -2002,7 +2056,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "98565991ab938b7107b42a311aa254f5b48c240f9fd3c5a65c5adde1d83b8bd6"
+    "guide_content_sha256": "98565991ab938b7107b42a311aa254f5b48c240f9fd3c5a65c5adde1d83b8bd6",
+    "visual_spec_sha256": "e29a3e7b79c1040d0075efc49dfa9be5ceb82cf3459f5e78b1a2b9544ecc44a0"
   },
   {
     "id": "340",
@@ -2029,7 +2084,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "d4494d92064f2f60e2e8aebf6c538647ff64c461ffadf9fd6af2c93409b9ea2b"
+    "guide_content_sha256": "d4494d92064f2f60e2e8aebf6c538647ff64c461ffadf9fd6af2c93409b9ea2b",
+    "visual_spec_sha256": "0b120702a7c46b8c353c9d6ec0acc0d0d05595d170ad1575b562a393528b8a33"
   },
   {
     "id": "206",
@@ -2053,7 +2109,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "040138025f54700294a4e0782b1cd2e8992cd22deb6765272edaa54bf722c3be"
+    "guide_content_sha256": "040138025f54700294a4e0782b1cd2e8992cd22deb6765272edaa54bf722c3be",
+    "visual_spec_sha256": "3333dcd812b8998735ebcd66771117a012967ff4cc6fefa78d1b7c8f1d7edae5"
   },
   {
     "id": "2",
@@ -2084,7 +2141,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "4d97bc54bdbe4f47e8cae1cace322a2ad4a6c059b365ee6d6bfc1c738a5b7ef6"
+    "guide_content_sha256": "4d97bc54bdbe4f47e8cae1cace322a2ad4a6c059b365ee6d6bfc1c738a5b7ef6",
+    "visual_spec_sha256": "4584dbbbd18ec746f12644732932c7673a3d1701216634591aa9d9b24e27e3d6"
   },
   {
     "id": "9",
@@ -2115,7 +2173,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "e1fe88b3aea5046fb53c3249708389f87e5ada97a890a6142268bb59219afdfd"
+    "guide_content_sha256": "e1fe88b3aea5046fb53c3249708389f87e5ada97a890a6142268bb59219afdfd",
+    "visual_spec_sha256": "655a0f2f1f097fca40134b70bba45affc877c8790d135eb648e25f941823ccb8"
   },
   {
     "id": "0",
@@ -2142,7 +2201,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "ba7fe885eef337c8227936f9a02a4f78e843ff91f84d3a1947d84b033ba8c59b"
+    "guide_content_sha256": "ba7fe885eef337c8227936f9a02a4f78e843ff91f84d3a1947d84b033ba8c59b",
+    "visual_spec_sha256": "94c35d5ecdc0df82ba50b46aed59bb0928171c8939ebd83129e59bf006e306c6"
   },
   {
     "id": "342",
@@ -2166,7 +2226,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "aaeb84b3189e7cdb77e026e0fc0379f34d7a5dc2074989bec74fd9dc85b47d73"
+    "guide_content_sha256": "aaeb84b3189e7cdb77e026e0fc0379f34d7a5dc2074989bec74fd9dc85b47d73",
+    "visual_spec_sha256": "3c984a61aa4897fddc9fbc9436eab305c77b27e20560121846ac9d02f9c3fa36"
   },
   {
     "id": "25",
@@ -2212,7 +2273,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "6eb44feb2af82ade05b71770a1c46e0633a3b7f6934611d57e0fbea34d07d5fb"
+    "guide_content_sha256": "6eb44feb2af82ade05b71770a1c46e0633a3b7f6934611d57e0fbea34d07d5fb",
+    "visual_spec_sha256": "b3f7f9ba56047e1031db0db24b4f0197c99a6dbc3203aad05fde8adab4133de7"
   },
   {
     "id": "35",
@@ -2237,7 +2299,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "994aa1d6f8ac098a65102d694873fd92c38e0bfaa2056a4eac332ea2114a792f"
+    "guide_content_sha256": "994aa1d6f8ac098a65102d694873fd92c38e0bfaa2056a4eac332ea2114a792f",
+    "visual_spec_sha256": "10f478a58f29c76240b12fac3d349f27b8723e6b597d4039736e1e6f43a2b287"
   },
   {
     "id": "1",
@@ -2264,7 +2327,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "a3fd06f6062f6329881dba87664511ca69749ae9bbeaed0975590f0110bb2261"
+    "guide_content_sha256": "a3fd06f6062f6329881dba87664511ca69749ae9bbeaed0975590f0110bb2261",
+    "visual_spec_sha256": "969e9e86b656e1714330b776a18bc7d8a0b84516e4a7753f0b6b478258e9e56e"
   },
   {
     "id": "296",
@@ -2290,7 +2354,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "a88ba169082abf0ff2f6aec7c14b37d305ba3573d8ef44bbdddafd373f5cc33d"
+    "guide_content_sha256": "a88ba169082abf0ff2f6aec7c14b37d305ba3573d8ef44bbdddafd373f5cc33d",
+    "visual_spec_sha256": "cca387156a81aaa5074f1e0d593bf4766d3bb4c2940a44a4fb70c9b77a99990b"
   },
   {
     "id": "3",
@@ -2317,7 +2382,8 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "ba43c640769c0981ed019c0ffd91b31b1a50f2197ead93b02935f271ae9b5474"
+    "guide_content_sha256": "ba43c640769c0981ed019c0ffd91b31b1a50f2197ead93b02935f271ae9b5474",
+    "visual_spec_sha256": "4453483a447e7c81900ad1c0824dadd966fce512ad832a86ee20febbb59863b7"
   },
   {
     "id": "22",
@@ -2341,6 +2407,7 @@
       "unreviewed": "External bibliography entries and unavailable supporting material are not independently reviewed."
     },
     "public_full_pdf": true,
-    "guide_content_sha256": "24580653d05edf0438a2454509c6a623bf4b13e50b786f39ce25d18189f4f766"
+    "guide_content_sha256": "24580653d05edf0438a2454509c6a623bf4b13e50b786f39ce25d18189f4f766",
+    "visual_spec_sha256": "ae96303ff71d9d18fa8e02dfe1d469b02a74f7f7c317794ea0a8dc772df9324b"
   }
 ]
